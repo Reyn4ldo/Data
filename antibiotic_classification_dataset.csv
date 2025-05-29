@@ -1,0 +1,1653 @@
+Isolate_ID,Organism,Source,Antibiotic,MIC,Interpretation,Scored_Resistance,ESBL,MAR_Index,Antibiotic_Class
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,1,2,0.05,Penicillin
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,64.0,1,1,2,0.05,Furanes
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_DWR1C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,4.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,16.0,2,1,2,0.05,Penicillin
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,32.0,0,1,2,0.05,Furanes
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,2.0,0,1,2,0.05,Fluoroquinolone
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_DWR1C2,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,16.0,2,1,2,0.05,Penicillin
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,32.0,0,1,2,0.05,Furanes
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_DWR2C3,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,4.0,0,9,2,0.41,Penicillin + β-lactamase inhibitor
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,8.0,0,9,2,0.41,Diaminopyrimidines/Sulfonamide
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,64,2,9,2,0.41,Cephalosporin
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,8.0,0,9,2,0.41,Phenicols
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,9,2,0.41,Penicillin
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,16.0,2,9,2,0.41,Tetracycline
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,128.0,2,9,2,0.41,Furanes
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,2.0,1,9,2,0.41,Fluoroquinolone
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,9,2,0.41,Aminoglycoside
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,TET,16.0,2,9,2,0.41,Tetracycline
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,9,2,0.41,Carbapenem
+SAL_DWR2C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,9,2,0.41,Aminoglycoside
+SAL_DWR2C2,Escherichia coli,DW,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+SAL_DWR2C2,Escherichia coli,DW,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+SAL_DWR2C2,Escherichia coli,DW,CFX,8,0,0,2,0.0,Cephalosporin
+SAL_DWR2C2,Escherichia coli,DW,CHL,4.0,0,0,2,0.0,Phenicols
+SAL_DWR2C2,Escherichia coli,DW,AMP,2.0,0,0,2,0.0,Penicillin
+SAL_DWR2C2,Escherichia coli,DW,DOX,2.0,0,0,2,0.0,Tetracycline
+SAL_DWR2C2,Escherichia coli,DW,NIT,1.0,1,0,2,0.0,Furanes
+SAL_DWR2C2,Escherichia coli,DW,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+SAL_DWR2C2,Escherichia coli,DW,GEN,1.0,0,0,2,0.0,Aminoglycoside
+SAL_DWR2C2,Escherichia coli,DW,TET,1.0,0,0,2,0.0,Tetracycline
+SAL_DWR2C2,Escherichia coli,DW,IME,0.25,0,0,2,0.0,Carbapenem
+SAL_DWR2C2,Escherichia coli,DW,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_LWR1C1,Enterobacter cloacae complex,LW,AMO,2.0,0,0,0,0.0,Penicillin + β-lactamase inhibitor
+EC_LWR1C1,Enterobacter cloacae complex,LW,TR/SL,20.0,0,0,0,0.0,Diaminopyrimidines/Sulfonamide
+EC_LWR1C1,Enterobacter cloacae complex,LW,CFX,4,0,0,0,0.0,Cephalosporin
+EC_LWR1C1,Enterobacter cloacae complex,LW,CHL,2.0,0,0,0,0.0,Phenicols
+EC_LWR1C1,Enterobacter cloacae complex,LW,DOX,0.5,0,0,0,0.0,Tetracycline
+EC_LWR1C1,Enterobacter cloacae complex,LW,NIT,16.0,0,0,0,0.0,Furanes
+EC_LWR1C1,Enterobacter cloacae complex,LW,ENR,0.12,0,0,0,0.0,Fluoroquinolone
+EC_LWR1C1,Enterobacter cloacae complex,LW,GEN,1.0,0,0,0,0.0,Aminoglycoside
+EC_LWR1C1,Enterobacter cloacae complex,LW,TET,1.0,0,0,0,0.0,Tetracycline
+EC_LWR1C1,Enterobacter cloacae complex,LW,IME,0.25,0,0,0,0.0,Carbapenem
+EC_LWR1C1,Enterobacter cloacae complex,LW,AMI,2.0,0,0,0,0.0,Aminoglycoside
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMO,8.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,CHL,4.0,0,1,2,0.05,Phenicols
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMP,16.0,2,1,2,0.05,Penicillin
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,NIT,64.0,1,1,2,0.05,Furanes
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,IME,0.5,0,1,2,0.05,Carbapenem
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_LWR1C12,Enterobacter cloacae complex,LW,AMO,32.0,2,4,0,0.21,Penicillin + β-lactamase inhibitor
+EC_LWR1C12,Enterobacter cloacae complex,LW,TR/SL,20.0,0,4,0,0.21,Diaminopyrimidines/Sulfonamide
+EC_LWR1C12,Enterobacter cloacae complex,LW,CFX,64,2,4,0,0.21,Cephalosporin
+EC_LWR1C12,Enterobacter cloacae complex,LW,CHL,8.0,0,4,0,0.21,Phenicols
+EC_LWR1C12,Enterobacter cloacae complex,LW,DOX,4.0,0,4,0,0.21,Tetracycline
+EC_LWR1C12,Enterobacter cloacae complex,LW,NIT,64.0,1,4,0,0.21,Furanes
+EC_LWR1C12,Enterobacter cloacae complex,LW,ENR,0.12,0,4,0,0.21,Fluoroquinolone
+EC_LWR1C12,Enterobacter cloacae complex,LW,GEN,1.0,0,4,0,0.21,Aminoglycoside
+EC_LWR1C12,Enterobacter cloacae complex,LW,TET,2.0,0,4,0,0.21,Tetracycline
+EC_LWR1C12,Enterobacter cloacae complex,LW,IME,1.0,0,4,0,0.21,Carbapenem
+EC_LWR1C12,Enterobacter cloacae complex,LW,AMI,2.0,0,4,0,0.21,Aminoglycoside
+EC_LWR2C4,Enterobacter cloacae complex,LW,AMO,2.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+EC_LWR2C4,Enterobacter cloacae complex,LW,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+EC_LWR2C4,Enterobacter cloacae complex,LW,CFX,64,2,3,0,0.15,Cephalosporin
+EC_LWR2C4,Enterobacter cloacae complex,LW,CHL,2.0,0,3,0,0.15,Phenicols
+EC_LWR2C4,Enterobacter cloacae complex,LW,DOX,1.0,0,3,0,0.15,Tetracycline
+EC_LWR2C4,Enterobacter cloacae complex,LW,NIT,64.0,1,3,0,0.15,Furanes
+EC_LWR2C4,Enterobacter cloacae complex,LW,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+EC_LWR2C4,Enterobacter cloacae complex,LW,GEN,1.0,0,3,0,0.15,Aminoglycoside
+EC_LWR2C4,Enterobacter cloacae complex,LW,TET,1.0,0,3,0,0.15,Tetracycline
+EC_LWR2C4,Enterobacter cloacae complex,LW,IME,0.5,0,3,0,0.15,Carbapenem
+EC_LWR2C4,Enterobacter cloacae complex,LW,AMI,2.0,0,3,0,0.15,Aminoglycoside
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,AMO,8.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,AMP,32.0,2,1,2,0.05,Penicillin
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,NIT,16.0,0,1,2,0.05,Furanes
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_LWR2C8,Klebsiella pneumoniae ssp pneumoniae,LW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,AMO,8.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,AMP,32.0,2,1,2,0.05,Penicillin
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,NIT,16.0,0,1,2,0.05,Furanes
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_LWR2C9,Klebsiella pneumoniae ssp pneumoniae,LW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_LWR2C12,Enterobacter cloacae complex,LW,AMO,32.0,2,3,0,0.16,Penicillin + β-lactamase inhibitor
+EC_LWR2C12,Enterobacter cloacae complex,LW,TR/SL,20.0,0,3,0,0.16,Diaminopyrimidines/Sulfonamide
+EC_LWR2C12,Enterobacter cloacae complex,LW,CFX,64,2,3,0,0.16,Cephalosporin
+EC_LWR2C12,Enterobacter cloacae complex,LW,CHL,2.0,0,3,0,0.16,Phenicols
+EC_LWR2C12,Enterobacter cloacae complex,LW,DOX,1.0,0,3,0,0.16,Tetracycline
+EC_LWR2C12,Enterobacter cloacae complex,LW,NIT,16.0,0,3,0,0.16,Furanes
+EC_LWR2C12,Enterobacter cloacae complex,LW,ENR,0.12,0,3,0,0.16,Fluoroquinolone
+EC_LWR2C12,Enterobacter cloacae complex,LW,GEN,1.0,0,3,0,0.16,Aminoglycoside
+EC_LWR2C12,Enterobacter cloacae complex,LW,TET,1.0,0,3,0,0.16,Tetracycline
+EC_LWR2C12,Enterobacter cloacae complex,LW,IME,1.0,0,3,0,0.16,Carbapenem
+EC_LWR2C12,Enterobacter cloacae complex,LW,AMI,2.0,0,3,0,0.16,Aminoglycoside
+EC_FTR1C2,Escherichia coli,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR1C2,Escherichia coli,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR1C2,Escherichia coli,FT,CFX,8,0,1,2,0.05,Cephalosporin
+EC_FTR1C2,Escherichia coli,FT,CHL,4.0,0,1,2,0.05,Phenicols
+EC_FTR1C2,Escherichia coli,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR1C2,Escherichia coli,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR1C2,Escherichia coli,FT,NIT,16.0,0,1,2,0.05,Furanes
+EC_FTR1C2,Escherichia coli,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR1C2,Escherichia coli,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR1C2,Escherichia coli,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR1C2,Escherichia coli,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR1C2,Escherichia coli,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR1C4,Escherichia coli,FT,AMO,4.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR1C4,Escherichia coli,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR1C4,Escherichia coli,FT,CFX,8,0,1,2,0.05,Cephalosporin
+EC_FTR1C4,Escherichia coli,FT,CHL,16.0,1,1,2,0.05,Phenicols
+EC_FTR1C4,Escherichia coli,FT,AMP,8.0,0,1,2,0.05,Penicillin
+EC_FTR1C4,Escherichia coli,FT,DOX,8.0,1,1,2,0.05,Tetracycline
+EC_FTR1C4,Escherichia coli,FT,NIT,16.0,0,1,2,0.05,Furanes
+EC_FTR1C4,Escherichia coli,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR1C4,Escherichia coli,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR1C4,Escherichia coli,FT,TET,16.0,2,1,2,0.05,Tetracycline
+EC_FTR1C4,Escherichia coli,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR1C4,Escherichia coli,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR1C7,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR1C7,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR1C7,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR1C7,Escherichia coli,FT,CHL,8.0,0,0,2,0.0,Phenicols
+EC_FTR1C7,Escherichia coli,FT,AMP,2.0,0,0,2,0.0,Penicillin
+EC_FTR1C7,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C7,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR1C7,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR1C7,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C7,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C7,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR1C7,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C8,Enterobacter cloacae complex,FT,AMO,4.0,0,3,0,0.15,Penicillin + β-lactamase inhibitor
+EC_FTR1C8,Enterobacter cloacae complex,FT,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+EC_FTR1C8,Enterobacter cloacae complex,FT,CFX,64,2,3,0,0.15,Cephalosporin
+EC_FTR1C8,Enterobacter cloacae complex,FT,CHL,4.0,0,3,0,0.15,Phenicols
+EC_FTR1C8,Enterobacter cloacae complex,FT,DOX,2.0,0,3,0,0.15,Tetracycline
+EC_FTR1C8,Enterobacter cloacae complex,FT,NIT,32.0,0,3,0,0.15,Furanes
+EC_FTR1C8,Enterobacter cloacae complex,FT,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+EC_FTR1C8,Enterobacter cloacae complex,FT,GEN,1.0,0,3,0,0.15,Aminoglycoside
+EC_FTR1C8,Enterobacter cloacae complex,FT,TET,1.0,0,3,0,0.15,Tetracycline
+EC_FTR1C8,Enterobacter cloacae complex,FT,IME,1.0,0,3,0,0.15,Carbapenem
+EC_FTR1C8,Enterobacter cloacae complex,FT,AMI,2.0,0,3,0,0.15,Aminoglycoside
+EC_FTR1C9,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR1C9,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR1C9,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR1C9,Escherichia coli,FT,CHL,8.0,0,0,2,0.0,Phenicols
+EC_FTR1C9,Escherichia coli,FT,AMP,2.0,0,0,2,0.0,Penicillin
+EC_FTR1C9,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C9,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR1C9,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR1C9,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C9,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C9,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR1C9,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C11,Escherichia coli,FT,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FTR1C11,Escherichia coli,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FTR1C11,Escherichia coli,FT,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FTR1C11,Escherichia coli,FT,CHL,4.0,0,2,2,0.09,Phenicols
+EC_FTR1C11,Escherichia coli,FT,AMP,4.0,0,2,2,0.09,Penicillin
+EC_FTR1C11,Escherichia coli,FT,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FTR1C11,Escherichia coli,FT,NIT,16.0,0,2,2,0.09,Furanes
+EC_FTR1C11,Escherichia coli,FT,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FTR1C11,Escherichia coli,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FTR1C11,Escherichia coli,FT,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FTR1C11,Escherichia coli,FT,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FTR1C11,Escherichia coli,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FTR1C13,Enterobacter cloacae complex,FT,AMO,2.0,0,4,0,0.17,Penicillin + β-lactamase inhibitor
+EC_FTR1C13,Enterobacter cloacae complex,FT,TR/SL,20.0,0,4,0,0.17,Diaminopyrimidines/Sulfonamide
+EC_FTR1C13,Enterobacter cloacae complex,FT,CFX,64,2,4,0,0.17,Cephalosporin
+EC_FTR1C13,Enterobacter cloacae complex,FT,CHL,4.0,0,4,0,0.17,Phenicols
+EC_FTR1C13,Enterobacter cloacae complex,FT,DOX,16.0,2,4,0,0.17,Tetracycline
+EC_FTR1C13,Enterobacter cloacae complex,FT,NIT,16.0,0,4,0,0.17,Furanes
+EC_FTR1C13,Enterobacter cloacae complex,FT,ENR,0.12,0,4,0,0.17,Fluoroquinolone
+EC_FTR1C13,Enterobacter cloacae complex,FT,GEN,1.0,0,4,0,0.17,Aminoglycoside
+EC_FTR1C13,Enterobacter cloacae complex,FT,TET,4.0,0,4,0,0.17,Tetracycline
+EC_FTR1C13,Enterobacter cloacae complex,FT,IME,0.25,0,4,0,0.17,Carbapenem
+EC_FTR1C13,Enterobacter cloacae complex,FT,AMI,2.0,0,4,0,0.17,Aminoglycoside
+EC_FTR1C15,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR1C15,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR1C15,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR1C15,Escherichia coli,FT,CHL,16.0,1,0,2,0.0,Phenicols
+EC_FTR1C15,Escherichia coli,FT,AMP,4.0,0,0,2,0.0,Penicillin
+EC_FTR1C15,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C15,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR1C15,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR1C15,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C15,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C15,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR1C15,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C16,Escherichia coli,FT,AMO,16.0,0,5,2,0.25,Penicillin + β-lactamase inhibitor
+EC_FTR1C16,Escherichia coli,FT,TR/SL,320.0,2,5,2,0.25,Diaminopyrimidines/Sulfonamide
+EC_FTR1C16,Escherichia coli,FT,CFX,64,2,5,2,0.25,Cephalosporin
+EC_FTR1C16,Escherichia coli,FT,CHL,4.0,0,5,2,0.25,Phenicols
+EC_FTR1C16,Escherichia coli,FT,AMP,32.0,2,5,2,0.25,Penicillin
+EC_FTR1C16,Escherichia coli,FT,DOX,16.0,2,5,2,0.25,Tetracycline
+EC_FTR1C16,Escherichia coli,FT,NIT,16.0,0,5,2,0.25,Furanes
+EC_FTR1C16,Escherichia coli,FT,ENR,0.5,0,5,2,0.25,Fluoroquinolone
+EC_FTR1C16,Escherichia coli,FT,GEN,1.0,0,5,2,0.25,Aminoglycoside
+EC_FTR1C16,Escherichia coli,FT,TET,8.0,1,5,2,0.25,Tetracycline
+EC_FTR1C16,Escherichia coli,FT,IME,0.25,0,5,2,0.25,Carbapenem
+EC_FTR1C16,Escherichia coli,FT,AMI,2.0,0,5,2,0.25,Aminoglycoside
+EC_FTR1C17,Escherichia coli,FT,AMO,4.0,0,6,2,0.32,Penicillin + β-lactamase inhibitor
+EC_FTR1C17,Escherichia coli,FT,TR/SL,320.0,2,6,2,0.32,Diaminopyrimidines/Sulfonamide
+EC_FTR1C17,Escherichia coli,FT,CFX,64,2,6,2,0.32,Cephalosporin
+EC_FTR1C17,Escherichia coli,FT,CHL,64.0,2,6,2,0.32,Phenicols
+EC_FTR1C17,Escherichia coli,FT,AMP,32.0,2,6,2,0.32,Penicillin
+EC_FTR1C17,Escherichia coli,FT,DOX,16.0,2,6,2,0.32,Tetracycline
+EC_FTR1C17,Escherichia coli,FT,NIT,16.0,0,6,2,0.32,Furanes
+EC_FTR1C17,Escherichia coli,FT,ENR,0.12,0,6,2,0.32,Fluoroquinolone
+EC_FTR1C17,Escherichia coli,FT,GEN,1.0,0,6,2,0.32,Aminoglycoside
+EC_FTR1C17,Escherichia coli,FT,TET,2.0,0,6,2,0.32,Tetracycline
+EC_FTR1C17,Escherichia coli,FT,IME,0.25,0,6,2,0.32,Carbapenem
+EC_FTR1C17,Escherichia coli,FT,AMI,2.0,0,6,2,0.32,Aminoglycoside
+EC_FTR1C18,Escherichia coli,FT,AMO,4.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR1C18,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR1C18,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR1C18,Escherichia coli,FT,CHL,16.0,1,0,2,0.0,Phenicols
+EC_FTR1C18,Escherichia coli,FT,AMP,8.0,0,0,2,0.0,Penicillin
+EC_FTR1C18,Escherichia coli,FT,DOX,2.0,0,0,2,0.0,Tetracycline
+EC_FTR1C18,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR1C18,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR1C18,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C18,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C18,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR1C18,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR2C3,Escherichia coli,FT,AMO,2.0,0,6,2,0.32,Penicillin + β-lactamase inhibitor
+EC_FTR2C3,Escherichia coli,FT,TR/SL,20.0,0,6,2,0.32,Diaminopyrimidines/Sulfonamide
+EC_FTR2C3,Escherichia coli,FT,CFX,64,2,6,2,0.32,Cephalosporin
+EC_FTR2C3,Escherichia coli,FT,CHL,8.0,0,6,2,0.32,Phenicols
+EC_FTR2C3,Escherichia coli,FT,AMP,32.0,2,6,2,0.32,Penicillin
+EC_FTR2C3,Escherichia coli,FT,DOX,1.0,0,6,2,0.32,Tetracycline
+EC_FTR2C3,Escherichia coli,FT,NIT,16.0,0,6,2,0.32,Furanes
+EC_FTR2C3,Escherichia coli,FT,ENR,0.12,0,6,2,0.32,Fluoroquinolone
+EC_FTR2C3,Escherichia coli,FT,GEN,1.0,0,6,2,0.32,Aminoglycoside
+EC_FTR2C3,Escherichia coli,FT,TET,1.0,0,6,2,0.32,Tetracycline
+EC_FTR2C3,Escherichia coli,FT,IME,16.0,2,6,2,0.32,Carbapenem
+EC_FTR2C3,Escherichia coli,FT,AMI,2.0,0,6,2,0.32,Aminoglycoside
+EC_FTR2C6,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR2C6,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR2C6,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR2C6,Escherichia coli,FT,CHL,8.0,0,0,2,0.0,Phenicols
+EC_FTR2C6,Escherichia coli,FT,AMP,2.0,0,0,2,0.0,Penicillin
+EC_FTR2C6,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR2C6,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR2C6,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR2C6,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR2C6,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR2C6,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR2C6,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR2C7,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR2C7,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR2C7,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR2C7,Escherichia coli,FT,CHL,8.0,0,0,2,0.0,Phenicols
+EC_FTR2C7,Escherichia coli,FT,AMP,2.0,0,0,2,0.0,Penicillin
+EC_FTR2C7,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR2C7,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR2C7,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR2C7,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR2C7,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR2C7,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR2C7,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR2C8,Escherichia coli,FT,AMO,4.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FTR2C8,Escherichia coli,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FTR2C8,Escherichia coli,FT,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FTR2C8,Escherichia coli,FT,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FTR2C8,Escherichia coli,FT,AMP,32.0,2,2,2,0.09,Penicillin
+EC_FTR2C8,Escherichia coli,FT,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FTR2C8,Escherichia coli,FT,NIT,16.0,0,2,2,0.09,Furanes
+EC_FTR2C8,Escherichia coli,FT,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FTR2C8,Escherichia coli,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FTR2C8,Escherichia coli,FT,TET,8.0,1,2,2,0.09,Tetracycline
+EC_FTR2C8,Escherichia coli,FT,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FTR2C8,Escherichia coli,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FTR2C10,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR2C10,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR2C10,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR2C10,Escherichia coli,FT,CHL,16.0,1,0,2,0.0,Phenicols
+EC_FTR2C10,Escherichia coli,FT,AMP,4.0,0,0,2,0.0,Penicillin
+EC_FTR2C10,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR2C10,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR2C10,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR2C10,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR2C10,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR2C10,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR2C10,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR2C14,Enterobacter aerogenes,FT,AMO,2.0,0,5,0,0.24,Penicillin + β-lactamase inhibitor
+EC_FTR2C14,Enterobacter aerogenes,FT,TR/SL,20.0,0,5,0,0.24,Diaminopyrimidines/Sulfonamide
+EC_FTR2C14,Enterobacter aerogenes,FT,CFX,64,2,5,0,0.24,Cephalosporin
+EC_FTR2C14,Enterobacter aerogenes,FT,CHL,4.0,0,5,0,0.24,Phenicols
+EC_FTR2C14,Enterobacter aerogenes,FT,DOX,16.0,2,5,0,0.24,Tetracycline
+EC_FTR2C14,Enterobacter aerogenes,FT,NIT,16.0,0,5,0,0.24,Furanes
+EC_FTR2C14,Enterobacter aerogenes,FT,ENR,1.0,1,5,0,0.24,Fluoroquinolone
+EC_FTR2C14,Enterobacter aerogenes,FT,GEN,1.0,0,5,0,0.24,Aminoglycoside
+EC_FTR2C14,Enterobacter aerogenes,FT,TET,16.0,2,5,0,0.24,Tetracycline
+EC_FTR2C14,Enterobacter aerogenes,FT,IME,0.25,0,5,0,0.24,Carbapenem
+EC_FTR2C14,Enterobacter aerogenes,FT,AMI,2.0,0,5,0,0.24,Aminoglycoside
+EC_FTR2C15,Escherichia coli,FT,CFX, NA,0,1,0,0.05,Cephalosporin
+EC_FTR2C16,Enterobacter aerogenes,FT,AMO,4.0,0,7,0,0.37,Penicillin + β-lactamase inhibitor
+EC_FTR2C16,Enterobacter aerogenes,FT,TR/SL,320.0,2,7,0,0.37,Diaminopyrimidines/Sulfonamide
+EC_FTR2C16,Enterobacter aerogenes,FT,CFX,64,2,7,0,0.37,Cephalosporin
+EC_FTR2C16,Enterobacter aerogenes,FT,CHL,64.0,2,7,0,0.37,Phenicols
+EC_FTR2C16,Enterobacter aerogenes,FT,DOX,16.0,2,7,0,0.37,Tetracycline
+EC_FTR2C16,Enterobacter aerogenes,FT,NIT,16.0,0,7,0,0.37,Furanes
+EC_FTR2C16,Enterobacter aerogenes,FT,ENR,1.0,1,7,0,0.37,Fluoroquinolone
+EC_FTR2C16,Enterobacter aerogenes,FT,GEN,1.0,0,7,0,0.37,Aminoglycoside
+EC_FTR2C16,Enterobacter aerogenes,FT,TET,8.0,1,7,0,0.37,Tetracycline
+EC_FTR2C16,Enterobacter aerogenes,FT,IME,0.25,0,7,0,0.37,Carbapenem
+EC_FTR2C16,Enterobacter aerogenes,FT,AMI,2.0,0,7,0,0.37,Aminoglycoside
+EC_FTR3C1,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR3C1,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR3C1,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FTR3C1,Escherichia coli,FT,CHL,8.0,0,0,2,0.0,Phenicols
+EC_FTR3C1,Escherichia coli,FT,AMP,2.0,0,0,2,0.0,Penicillin
+EC_FTR3C1,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR3C1,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR3C1,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR3C1,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR3C1,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR3C1,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR3C1,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,6,2,0.27,Penicillin + β-lactamase inhibitor
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,320.0,2,6,2,0.27,Diaminopyrimidines/Sulfonamide
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,64,2,6,2,0.27,Cephalosporin
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,4.0,0,6,2,0.27,Phenicols
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,6,2,0.27,Penicillin
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,6,2,0.27,Tetracycline
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,6,2,0.27,Furanes
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,1.0,1,6,2,0.27,Fluoroquinolone
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,6,2,0.27,Aminoglycoside
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,6,2,0.27,Tetracycline
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,IME,1.0,0,6,2,0.27,Carbapenem
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,6,2,0.27,Aminoglycoside
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,4.0,0,4,2,0.18,Penicillin + β-lactamase inhibitor
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,320.0,2,4,2,0.18,Diaminopyrimidines/Sulfonamide
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,4,2,0.18,Cephalosporin
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,4.0,0,4,2,0.18,Phenicols
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,4,2,0.18,Penicillin
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,4,2,0.18,Tetracycline
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,64.0,1,4,2,0.18,Furanes
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,1.0,1,4,2,0.18,Fluoroquinolone
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,4,2,0.18,Aminoglycoside
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,4,2,0.18,Tetracycline
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.5,0,4,2,0.18,Carbapenem
+EC_FTR3C10,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,4,2,0.18,Aminoglycoside
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,8.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,64,2,2,2,0.09,Cephalosporin
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,4.0,0,2,2,0.09,Phenicols
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,16.0,2,2,2,0.09,Penicillin
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,2,2,0.09,Tetracycline
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,2,2,0.09,Furanes
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,2,2,0.09,Tetracycline
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.5,0,2,2,0.09,Carbapenem
+EC_FTR3C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FTR3C17,Escherichia coli,FT,AMO,4.0,0,7,2,0.37,Penicillin + β-lactamase inhibitor
+EC_FTR3C17,Escherichia coli,FT,TR/SL,320.0,2,7,2,0.37,Diaminopyrimidines/Sulfonamide
+EC_FTR3C17,Escherichia coli,FT,CFX,64,2,7,2,0.37,Cephalosporin
+EC_FTR3C17,Escherichia coli,FT,CHL,64.0,2,7,2,0.37,Phenicols
+EC_FTR3C17,Escherichia coli,FT,AMP,32.0,2,7,2,0.37,Penicillin
+EC_FTR3C17,Escherichia coli,FT,DOX,16.0,2,7,2,0.37,Tetracycline
+EC_FTR3C17,Escherichia coli,FT,NIT,16.0,0,7,2,0.37,Furanes
+EC_FTR3C17,Escherichia coli,FT,ENR,0.5,0,7,2,0.37,Fluoroquinolone
+EC_FTR3C17,Escherichia coli,FT,GEN,1.0,0,7,2,0.37,Aminoglycoside
+EC_FTR3C17,Escherichia coli,FT,TET,16.0,2,7,2,0.37,Tetracycline
+EC_FTR3C17,Escherichia coli,FT,IME,0.25,0,7,2,0.37,Carbapenem
+EC_FTR3C17,Escherichia coli,FT,AMI,2.0,0,7,2,0.37,Aminoglycoside
+EC_FTR3C18,Escherichia coli,FT,AMO,4.0,0,6,2,0.27,Penicillin + β-lactamase inhibitor
+EC_FTR3C18,Escherichia coli,FT,TR/SL,320.0,2,6,2,0.27,Diaminopyrimidines/Sulfonamide
+EC_FTR3C18,Escherichia coli,FT,CFX,64,2,6,2,0.27,Cephalosporin
+EC_FTR3C18,Escherichia coli,FT,CHL,64.0,2,6,2,0.27,Phenicols
+EC_FTR3C18,Escherichia coli,FT,AMP,32.0,2,6,2,0.27,Penicillin
+EC_FTR3C18,Escherichia coli,FT,DOX,16.0,2,6,2,0.27,Tetracycline
+EC_FTR3C18,Escherichia coli,FT,NIT,16.0,0,6,2,0.27,Furanes
+EC_FTR3C18,Escherichia coli,FT,ENR,0.5,0,6,2,0.27,Fluoroquinolone
+EC_FTR3C18,Escherichia coli,FT,GEN,1.0,0,6,2,0.27,Aminoglycoside
+EC_FTR3C18,Escherichia coli,FT,TET,16.0,2,6,2,0.27,Tetracycline
+EC_FTR3C18,Escherichia coli,FT,IME,0.25,0,6,2,0.27,Carbapenem
+EC_FTR3C18,Escherichia coli,FT,AMI,2.0,0,6,2,0.27,Aminoglycoside
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,AMO,16.0,0,6,0,0.3,Penicillin + β-lactamase inhibitor
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,TR/SL,20.0,0,6,0,0.3,Diaminopyrimidines/Sulfonamide
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,CFX,32,2,6,0,0.3,Cephalosporin
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,CHL,32.0,2,6,0,0.3,Phenicols
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,AMP,8.0,2,6,0,0.3,Penicillin
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,DOX,2.0,0,6,0,0.3,Tetracycline
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,NIT,16.0,0,6,0,0.3,Furanes
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,ENR,1.0,1,6,0,0.3,Fluoroquinolone
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,GEN,1.0,2,6,0,0.3,Aminoglycoside
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,TET,1.0,0,6,0,0.3,Tetracycline
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,IME,1.0,0,6,0,0.3,Carbapenem
+SAL_FTR2C1,Salmonella enterica spp diarozonae,FT,AMI,4.0,2,6,0,0.3,Aminoglycoside
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,AMO,2.0,0,5,0,0.25,Penicillin + β-lactamase inhibitor
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,TR/SL,20.0,0,5,0,0.25,Diaminopyrimidines/Sulfonamide
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,CFX,32,2,5,0,0.25,Cephalosporin
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,CHL,16.0,1,5,0,0.25,Phenicols
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,AMP,4.0,2,5,0,0.25,Penicillin
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,DOX,1.0,0,5,0,0.25,Tetracycline
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,NIT,16.0,0,5,0,0.25,Furanes
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,ENR,1.0,1,5,0,0.25,Fluoroquinolone
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,GEN,1.0,2,5,0,0.25,Aminoglycoside
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,TET,1.0,0,5,0,0.25,Tetracycline
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,IME,0.25,0,5,0,0.25,Carbapenem
+SAL_FTR2C5,Salmonella enterica spp diarozonae,FT,AMI,2.0,2,5,0,0.25,Aminoglycoside
+SAL_FTR3C6,Escherichia coli,FT,AMO,4.0,0,11,1,0.52,Penicillin + β-lactamase inhibitor
+SAL_FTR3C6,Escherichia coli,FT,TR/SL,320.0,2,11,1,0.52,Diaminopyrimidines/Sulfonamide
+SAL_FTR3C6,Escherichia coli,FT,CFX,64,2,11,1,0.52,Cephalosporin
+SAL_FTR3C6,Escherichia coli,FT,CHL,8.0,0,11,1,0.52,Phenicols
+SAL_FTR3C6,Escherichia coli,FT,AMP,32.0,2,11,1,0.52,Penicillin
+SAL_FTR3C6,Escherichia coli,FT,DOX,16.0,2,11,1,0.52,Tetracycline
+SAL_FTR3C6,Escherichia coli,FT,NIT,16.0,0,11,1,0.52,Furanes
+SAL_FTR3C6,Escherichia coli,FT,ENR,4.0,2,11,1,0.52,Fluoroquinolone
+SAL_FTR3C6,Escherichia coli,FT,GEN,1.0,0,11,1,0.52,Aminoglycoside
+SAL_FTR3C6,Escherichia coli,FT,TET,16.0,2,11,1,0.52,Tetracycline
+SAL_FTR3C6,Escherichia coli,FT,IME,0.25,0,11,1,0.52,Carbapenem
+SAL_FTR3C6,Escherichia coli,FT,AMI,2.0,0,11,1,0.52,Aminoglycoside
+VC_FTR1C1,Escherichia coli,FT,AMO,4.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+VC_FTR1C1,Escherichia coli,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+VC_FTR1C1,Escherichia coli,FT,CFX,8,0,2,2,0.09,Cephalosporin
+VC_FTR1C1,Escherichia coli,FT,CHL,4.0,0,2,2,0.09,Phenicols
+VC_FTR1C1,Escherichia coli,FT,AMP,32.0,2,2,2,0.09,Penicillin
+VC_FTR1C1,Escherichia coli,FT,DOX,8.0,1,2,2,0.09,Tetracycline
+VC_FTR1C1,Escherichia coli,FT,NIT,16.0,0,2,2,0.09,Furanes
+VC_FTR1C1,Escherichia coli,FT,ENR,0.5,0,2,2,0.09,Fluoroquinolone
+VC_FTR1C1,Escherichia coli,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+VC_FTR1C1,Escherichia coli,FT,TET,16.0,2,2,2,0.09,Tetracycline
+VC_FTR1C1,Escherichia coli,FT,IME,0.25,0,2,2,0.09,Carbapenem
+VC_FTR1C1,Escherichia coli,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,16.0,0,7,2,0.33,Penicillin + β-lactamase inhibitor
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,320.0,2,7,2,0.33,Diaminopyrimidines/Sulfonamide
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,64,2,7,2,0.33,Cephalosporin
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,64.0,2,7,2,0.33,Phenicols
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,7,2,0.33,Penicillin
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,7,2,0.33,Tetracycline
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,16.0,0,7,2,0.33,Furanes
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,1.0,1,7,2,0.33,Fluoroquinolone
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,7,2,0.33,Aminoglycoside
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,7,2,0.33,Tetracycline
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,7,2,0.33,Carbapenem
+VC_FTR3C1,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,7,2,0.33,Aminoglycoside
+VC_FTR3C4,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+VC_FTR3C4,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+VC_FTR3C4,Escherichia coli,FT,CFX,8,0,0,2,0.0,Cephalosporin
+VC_FTR3C4,Escherichia coli,FT,CHL,8.0,0,0,2,0.0,Phenicols
+VC_FTR3C4,Escherichia coli,FT,AMP,4.0,0,0,2,0.0,Penicillin
+VC_FTR3C4,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+VC_FTR3C4,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+VC_FTR3C4,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+VC_FTR3C4,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+VC_FTR3C4,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+VC_FTR3C4,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+VC_FTR3C4,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,4.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,64.0,1,1,2,0.05,Furanes
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.5,0,1,2,0.05,Carbapenem
+EC_FKR1C3,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C1,Escherichia coli,FK,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FKR2C1,Escherichia coli,FK,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FKR2C1,Escherichia coli,FK,CFX,8,0,0,2,0.0,Cephalosporin
+EC_FKR2C1,Escherichia coli,FK,CHL,4.0,0,0,2,0.0,Phenicols
+EC_FKR2C1,Escherichia coli,FK,AMP,2.0,0,0,2,0.0,Penicillin
+EC_FKR2C1,Escherichia coli,FK,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FKR2C1,Escherichia coli,FK,NIT,16.0,0,0,2,0.0,Furanes
+EC_FKR2C1,Escherichia coli,FK,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FKR2C1,Escherichia coli,FK,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FKR2C1,Escherichia coli,FK,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FKR2C1,Escherichia coli,FK,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FKR2C1,Escherichia coli,FK,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,4.0,0,3,2,0.14,Penicillin + β-lactamase inhibitor
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,3,2,0.14,Diaminopyrimidines/Sulfonamide
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,8,0,3,2,0.14,Cephalosporin
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,4.0,0,3,2,0.14,Phenicols
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,3,2,0.14,Penicillin
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,16.0,2,3,2,0.14,Tetracycline
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,3,2,0.14,Furanes
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,1.0,1,3,2,0.14,Fluoroquinolone
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,3,2,0.14,Aminoglycoside
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,TET,16.0,2,3,2,0.14,Tetracycline
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,3,2,0.14,Carbapenem
+EC_FKR2C4,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,3,2,0.14,Aminoglycoside
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,2,2,0.09,Cephalosporin
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,4.0,0,2,2,0.09,Phenicols
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,2,2,0.09,Penicillin
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,2,2,0.09,Furanes
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,TET,2.0,1,2,2,0.09,Tetracycline
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,1,2,0.05,Furanes
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR3C1,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,64.0,0,1,2,0.05,Phenicols
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,64.0,1,1,2,0.05,Furanes
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.5,0,1,2,0.05,Carbapenem
+EC_FKR3C2,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR3C4,Escherichia coli,FK,AMO,2.0,0,4,2,0.18,Penicillin + β-lactamase inhibitor
+EC_FKR3C4,Escherichia coli,FK,TR/SL,20.0,0,4,2,0.18,Diaminopyrimidines/Sulfonamide
+EC_FKR3C4,Escherichia coli,FK,CFX,8,0,4,2,0.18,Cephalosporin
+EC_FKR3C4,Escherichia coli,FK,CHL,8.0,2,4,2,0.18,Phenicols
+EC_FKR3C4,Escherichia coli,FK,AMP,32.0,2,4,2,0.18,Penicillin
+EC_FKR3C4,Escherichia coli,FK,DOX,16.0,2,4,2,0.18,Tetracycline
+EC_FKR3C4,Escherichia coli,FK,NIT,16.0,0,4,2,0.18,Furanes
+EC_FKR3C4,Escherichia coli,FK,ENR,0.5,0,4,2,0.18,Fluoroquinolone
+EC_FKR3C4,Escherichia coli,FK,GEN,1.0,0,4,2,0.18,Aminoglycoside
+EC_FKR3C4,Escherichia coli,FK,TET,16.0,2,4,2,0.18,Tetracycline
+EC_FKR3C4,Escherichia coli,FK,IME,0.25,0,4,2,0.18,Carbapenem
+EC_FKR3C4,Escherichia coli,FK,AMI,2.0,0,4,2,0.18,Aminoglycoside
+EC_FKR3C5,Escherichia coli,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR3C5,Escherichia coli,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR3C5,Escherichia coli,FK,CFX,8,0,1,2,0.05,Cephalosporin
+EC_FKR3C5,Escherichia coli,FK,CHL,8.0,0,1,2,0.05,Phenicols
+EC_FKR3C5,Escherichia coli,FK,AMP,4.0,0,1,2,0.05,Penicillin
+EC_FKR3C5,Escherichia coli,FK,DOX,16.0,2,1,2,0.05,Tetracycline
+EC_FKR3C5,Escherichia coli,FK,NIT,16.0,0,1,2,0.05,Furanes
+EC_FKR3C5,Escherichia coli,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR3C5,Escherichia coli,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR3C5,Escherichia coli,FK,TET,8.0,1,1,2,0.05,Tetracycline
+EC_FKR3C5,Escherichia coli,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR3C5,Escherichia coli,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+SAL_FKR3C4,Escherichia coli,FK,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+SAL_FKR3C4,Escherichia coli,FK,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+SAL_FKR3C4,Escherichia coli,FK,CFX,8,0,0,2,0.0,Cephalosporin
+SAL_FKR3C4,Escherichia coli,FK,CHL,4.0,0,0,2,0.0,Phenicols
+SAL_FKR3C4,Escherichia coli,FK,AMP,2.0,0,0,2,0.0,Penicillin
+SAL_FKR3C4,Escherichia coli,FK,DOX,1.0,0,0,2,0.0,Tetracycline
+SAL_FKR3C4,Escherichia coli,FK,NIT,16.0,0,0,2,0.0,Furanes
+SAL_FKR3C4,Escherichia coli,FK,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+SAL_FKR3C4,Escherichia coli,FK,GEN,1.0,0,0,2,0.0,Aminoglycoside
+SAL_FKR3C4,Escherichia coli,FK,TET,1.0,0,0,2,0.0,Tetracycline
+SAL_FKR3C4,Escherichia coli,FK,IME,0.25,0,0,2,0.0,Carbapenem
+SAL_FKR3C4,Escherichia coli,FK,AMI,2.0,0,0,2,0.0,Aminoglycoside
+VC_FKR1C1,Escherichia coli,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+VC_FKR1C1,Escherichia coli,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+VC_FKR1C1,Escherichia coli,FK,CFX,8,0,1,2,0.05,Cephalosporin
+VC_FKR1C1,Escherichia coli,FK,AMP,4.0,0,1,2,0.05,Penicillin
+VC_FKR1C1,Escherichia coli,FK,DOX,16.0,2,1,2,0.05,Tetracycline
+VC_FKR1C1,Escherichia coli,FK,NIT,16.0,0,1,2,0.05,Furanes
+VC_FKR1C1,Escherichia coli,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+VC_FKR1C1,Escherichia coli,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+VC_FKR1C1,Escherichia coli,FK,TET,8.0,1,1,2,0.05,Tetracycline
+VC_FKR1C1,Escherichia coli,FK,IME,0.25,0,1,2,0.05,Carbapenem
+VC_FKR1C1,Escherichia coli,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_DWR1C1,Enterobacter cloacae complex,DW,AMO,32.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+EC_DWR1C1,Enterobacter cloacae complex,DW,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+EC_DWR1C1,Enterobacter cloacae complex,DW,CFX,64,2,3,0,0.15,Cephalosporin
+EC_DWR1C1,Enterobacter cloacae complex,DW,CHL,4.0,0,3,0,0.15,Phenicols
+EC_DWR1C1,Enterobacter cloacae complex,DW,DOX,2.0,0,3,0,0.15,Tetracycline
+EC_DWR1C1,Enterobacter cloacae complex,DW,NIT,32.0,0,3,0,0.15,Furanes
+EC_DWR1C1,Enterobacter cloacae complex,DW,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+EC_DWR1C1,Enterobacter cloacae complex,DW,GEN,1.0,0,3,0,0.15,Aminoglycoside
+EC_DWR1C1,Enterobacter cloacae complex,DW,TET,1.0,0,3,0,0.15,Tetracycline
+EC_DWR1C1,Enterobacter cloacae complex,DW,IME,0.5,0,3,0,0.15,Carbapenem
+EC_DWR1C1,Enterobacter cloacae complex,DW,AMI,2.0,0,3,0,0.15,Aminoglycoside
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,4.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,16.0,2,1,2,0.05,Penicillin
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,16.0,0,1,2,0.05,Furanes
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_DWR1C3,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_DWR1C7,Escherichia coli,DW,AMO,4.0,0,3,2,0.14,Penicillin + β-lactamase inhibitor
+EC_DWR1C7,Escherichia coli,DW,TR/SL,20.0,0,3,2,0.14,Diaminopyrimidines/Sulfonamide
+EC_DWR1C7,Escherichia coli,DW,CFX,4,0,3,2,0.14,Cephalosporin
+EC_DWR1C7,Escherichia coli,DW,CHL,4.0,0,3,2,0.14,Phenicols
+EC_DWR1C7,Escherichia coli,DW,AMP,32.0,2,3,2,0.14,Penicillin
+EC_DWR1C7,Escherichia coli,DW,DOX,16.0,2,3,2,0.14,Tetracycline
+EC_DWR1C7,Escherichia coli,DW,NIT,16.0,0,3,2,0.14,Furanes
+EC_DWR1C7,Escherichia coli,DW,ENR,0.12,0,3,2,0.14,Fluoroquinolone
+EC_DWR1C7,Escherichia coli,DW,GEN,1.0,0,3,2,0.14,Aminoglycoside
+EC_DWR1C7,Escherichia coli,DW,TET,16.0,2,3,2,0.14,Tetracycline
+EC_DWR1C7,Escherichia coli,DW,IME,0.25,0,3,2,0.14,Carbapenem
+EC_DWR1C7,Escherichia coli,DW,AMI,2.0,0,3,2,0.14,Aminoglycoside
+EC_DWR1C3,Escherichia coli,DW,AMO,4.0,0,4,2,0.19,Penicillin + β-lactamase inhibitor
+EC_DWR1C3,Escherichia coli,DW,TR/SL,320.0,2,4,2,0.19,Diaminopyrimidines/Sulfonamide
+EC_DWR1C3,Escherichia coli,DW,CFX,16,0,4,2,0.19,Cephalosporin
+EC_DWR1C3,Escherichia coli,DW,CHL,4.0,0,4,2,0.19,Phenicols
+EC_DWR1C3,Escherichia coli,DW,AMP,32.0,2,4,2,0.19,Penicillin
+EC_DWR1C3,Escherichia coli,DW,DOX,16.0,2,4,2,0.19,Tetracycline
+EC_DWR1C3,Escherichia coli,DW,NIT,16.0,0,4,2,0.19,Furanes
+EC_DWR1C3,Escherichia coli,DW,ENR,0.12,0,4,2,0.19,Fluoroquinolone
+EC_DWR1C3,Escherichia coli,DW,GEN,1.0,0,4,2,0.19,Aminoglycoside
+EC_DWR1C3,Escherichia coli,DW,TET,16.0,2,4,2,0.19,Tetracycline
+EC_DWR1C3,Escherichia coli,DW,IME,0.25,0,4,2,0.19,Carbapenem
+EC_DWR1C3,Escherichia coli,DW,AMI,2.0,0,4,2,0.19,Aminoglycoside
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,8.0,0,2,2,0.1,Penicillin + β-lactamase inhibitor
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,320.0,2,2,2,0.1,Diaminopyrimidines/Sulfonamide
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,8,0,2,2,0.1,Cephalosporin
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,8.0,0,2,2,0.1,Phenicols
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,2,2,0.1,Penicillin
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,2,2,0.1,Tetracycline
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,16.0,0,2,2,0.1,Furanes
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.5,0,2,2,0.1,Fluoroquinolone
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,2,2,0.1,Aminoglycoside
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,2,2,0.1,Tetracycline
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,2,2,0.1,Carbapenem
+EC_DWR2C4,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,2,2,0.1,Aminoglycoside
+EC_DWR2C8,Escherichia coli,DW,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_DWR2C8,Escherichia coli,DW,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_DWR2C8,Escherichia coli,DW,CFX,8,0,0,2,0.0,Cephalosporin
+EC_DWR2C8,Escherichia coli,DW,CHL,8.0,0,0,2,0.0,Phenicols
+EC_DWR2C8,Escherichia coli,DW,AMP,8.0,0,0,2,0.0,Penicillin
+EC_DWR2C8,Escherichia coli,DW,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_DWR2C8,Escherichia coli,DW,NIT,16.0,0,0,2,0.0,Furanes
+EC_DWR2C8,Escherichia coli,DW,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_DWR2C8,Escherichia coli,DW,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_DWR2C8,Escherichia coli,DW,TET,1.0,0,0,2,0.0,Tetracycline
+EC_DWR2C8,Escherichia coli,DW,IME,0.25,0,0,2,0.0,Carbapenem
+EC_DWR2C8,Escherichia coli,DW,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_DWR2C9,Escherichia coli,DW,AMO,4.0,0,3,2,0.14,Penicillin + β-lactamase inhibitor
+EC_DWR2C9,Escherichia coli,DW,TR/SL,20.0,0,3,2,0.14,Diaminopyrimidines/Sulfonamide
+EC_DWR2C9,Escherichia coli,DW,CFX,8,0,3,2,0.14,Cephalosporin
+EC_DWR2C9,Escherichia coli,DW,CHL,8.0,0,3,2,0.14,Phenicols
+EC_DWR2C9,Escherichia coli,DW,AMP,32.0,2,3,2,0.14,Penicillin
+EC_DWR2C9,Escherichia coli,DW,DOX,16.0,2,3,2,0.14,Tetracycline
+EC_DWR2C9,Escherichia coli,DW,NIT,16.0,0,3,2,0.14,Furanes
+EC_DWR2C9,Escherichia coli,DW,ENR,0.12,0,3,2,0.14,Fluoroquinolone
+EC_DWR2C9,Escherichia coli,DW,GEN,1.0,0,3,2,0.14,Aminoglycoside
+EC_DWR2C9,Escherichia coli,DW,TET,16.0,2,3,2,0.14,Tetracycline
+EC_DWR2C9,Escherichia coli,DW,IME,0.25,0,3,2,0.14,Carbapenem
+EC_DWR2C9,Escherichia coli,DW,AMI,2.0,0,3,2,0.14,Aminoglycoside
+EC_DWR2C10,Escherichia coli,DW,AMO,4.0,0,4,2,0.18,Penicillin + β-lactamase inhibitor
+EC_DWR2C10,Escherichia coli,DW,TR/SL,320.0,2,4,2,0.18,Diaminopyrimidines/Sulfonamide
+EC_DWR2C10,Escherichia coli,DW,CFX,8,0,4,2,0.18,Cephalosporin
+EC_DWR2C10,Escherichia coli,DW,CHL,4.0,0,4,2,0.18,Phenicols
+EC_DWR2C10,Escherichia coli,DW,AMP,32.0,2,4,2,0.18,Penicillin
+EC_DWR2C10,Escherichia coli,DW,DOX,16.0,2,4,2,0.18,Tetracycline
+EC_DWR2C10,Escherichia coli,DW,NIT,16.0,0,4,2,0.18,Furanes
+EC_DWR2C10,Escherichia coli,DW,ENR,0.12,0,4,2,0.18,Fluoroquinolone
+EC_DWR2C10,Escherichia coli,DW,GEN,1.0,0,4,2,0.18,Aminoglycoside
+EC_DWR2C10,Escherichia coli,DW,TET,16.0,2,4,2,0.18,Tetracycline
+EC_DWR2C10,Escherichia coli,DW,IME,0.25,0,4,2,0.18,Carbapenem
+EC_DWR2C10,Escherichia coli,DW,AMI,2.0,0,4,2,0.18,Aminoglycoside
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,2.0,0,8,1,0.38,Penicillin + β-lactamase inhibitor
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,320.0,2,8,1,0.38,Diaminopyrimidines/Sulfonamide
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,64,2,8,1,0.38,Cephalosporin
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,8,1,0.38,Phenicols
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,8,1,0.38,Penicillin
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,8,1,0.38,Tetracycline
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,64.0,1,8,1,0.38,Furanes
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,1.0,1,8,1,0.38,Fluoroquinolone
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,8,1,0.38,Aminoglycoside
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,8,1,0.38,Tetracycline
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,8,1,0.38,Carbapenem
+EC_DWR3C1,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,8,1,0.38,Aminoglycoside
+EC_DWR3C2,Escherichia coli,DW,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_DWR3C2,Escherichia coli,DW,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_DWR3C2,Escherichia coli,DW,CFX,16,0,0,2,0.0,Cephalosporin
+EC_DWR3C2,Escherichia coli,DW,CHL,8.0,0,0,2,0.0,Phenicols
+EC_DWR3C2,Escherichia coli,DW,AMP,8.0,0,0,2,0.0,Penicillin
+EC_DWR3C2,Escherichia coli,DW,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_DWR3C2,Escherichia coli,DW,NIT,16.0,0,0,2,0.0,Furanes
+EC_DWR3C2,Escherichia coli,DW,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_DWR3C2,Escherichia coli,DW,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_DWR3C2,Escherichia coli,DW,TET,1.0,0,0,2,0.0,Tetracycline
+EC_DWR3C2,Escherichia coli,DW,IME,0.25,0,0,2,0.0,Carbapenem
+EC_DWR3C2,Escherichia coli,DW,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_DWR3C4,Escherichia coli,DW,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_DWR3C4,Escherichia coli,DW,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_DWR3C4,Escherichia coli,DW,CFX,4,0,0,2,0.0,Cephalosporin
+EC_DWR3C4,Escherichia coli,DW,CHL,4.0,0,0,2,0.0,Phenicols
+EC_DWR3C4,Escherichia coli,DW,AMP,2.0,0,0,2,0.0,Penicillin
+EC_DWR3C4,Escherichia coli,DW,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_DWR3C4,Escherichia coli,DW,NIT,16.0,0,0,2,0.0,Furanes
+EC_DWR3C4,Escherichia coli,DW,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_DWR3C4,Escherichia coli,DW,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_DWR3C4,Escherichia coli,DW,TET,1.0,0,0,2,0.0,Tetracycline
+EC_DWR3C4,Escherichia coli,DW,IME,0.25,0,0,2,0.0,Carbapenem
+EC_DWR3C4,Escherichia coli,DW,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,1,2,0.05,Penicillin
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,32.0,0,1,2,0.05,Furanes
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_DWR3C6,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,1,2,0.05,Penicillin
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,32.0,0,1,2,0.05,Furanes
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_DWR3C8,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,1,2,0.05,Penicillin
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,32.0,0,1,2,0.05,Furanes
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,1,2,0.05,Carbapenem
+EC_DWR3C9,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+VC_DWR1C1,Enterobacter cloacae complex,DW,AMO,4.0,2,4,0,0.21,Penicillin + β-lactamase inhibitor
+VC_DWR1C1,Enterobacter cloacae complex,DW,TR/SL,20.0,0,4,0,0.21,Diaminopyrimidines/Sulfonamide
+VC_DWR1C1,Enterobacter cloacae complex,DW,CFX,64,2,4,0,0.21,Cephalosporin
+VC_DWR1C1,Enterobacter cloacae complex,DW,CHL,16.0,1,4,0,0.21,Phenicols
+VC_DWR1C1,Enterobacter cloacae complex,DW,DOX,2.0,0,4,0,0.21,Tetracycline
+VC_DWR1C1,Enterobacter cloacae complex,DW,NIT,128.0,2,4,0,0.21,Furanes
+VC_DWR1C1,Enterobacter cloacae complex,DW,ENR,0.12,0,4,0,0.21,Fluoroquinolone
+VC_DWR1C1,Enterobacter cloacae complex,DW,GEN,1.0,0,4,0,0.21,Aminoglycoside
+VC_DWR1C1,Enterobacter cloacae complex,DW,TET,2.0,0,4,0,0.21,Tetracycline
+VC_DWR1C1,Enterobacter cloacae complex,DW,IME,0.25,0,4,0,0.21,Carbapenem
+VC_DWR1C1,Enterobacter cloacae complex,DW,AMI,2.0,0,4,0,0.21,Aminoglycoside
+VC_DWR1C2,Enterobacter cloacae complex,DW,AMO,32.0,2,3,0,0.16,Penicillin + β-lactamase inhibitor
+VC_DWR1C2,Enterobacter cloacae complex,DW,TR/SL,20.0,0,3,0,0.16,Diaminopyrimidines/Sulfonamide
+VC_DWR1C2,Enterobacter cloacae complex,DW,CFX,64,2,3,0,0.16,Cephalosporin
+VC_DWR1C2,Enterobacter cloacae complex,DW,CHL,16.0,1,3,0,0.16,Phenicols
+VC_DWR1C2,Enterobacter cloacae complex,DW,DOX,4.0,0,3,0,0.16,Tetracycline
+VC_DWR1C2,Enterobacter cloacae complex,DW,NIT,64.0,1,3,0,0.16,Furanes
+VC_DWR1C2,Enterobacter cloacae complex,DW,ENR,0.12,0,3,0,0.16,Fluoroquinolone
+VC_DWR1C2,Enterobacter cloacae complex,DW,GEN,1.0,0,3,0,0.16,Aminoglycoside
+VC_DWR1C2,Enterobacter cloacae complex,DW,TET,2.0,0,3,0,0.16,Tetracycline
+VC_DWR1C2,Enterobacter cloacae complex,DW,IME,0.25,0,3,0,0.16,Carbapenem
+VC_DWR1C2,Enterobacter cloacae complex,DW,AMI,2.0,0,3,0,0.16,Aminoglycoside
+VC_DWR1C3,Enterobacter cloacae complex,DW,AMO,4.0,2,4,0,0.21,Penicillin + β-lactamase inhibitor
+VC_DWR1C3,Enterobacter cloacae complex,DW,TR/SL,20.0,0,4,0,0.21,Diaminopyrimidines/Sulfonamide
+VC_DWR1C3,Enterobacter cloacae complex,DW,CFX,64,2,4,0,0.21,Cephalosporin
+VC_DWR1C3,Enterobacter cloacae complex,DW,CHL,16.0,1,4,0,0.21,Phenicols
+VC_DWR1C3,Enterobacter cloacae complex,DW,DOX,2.0,0,4,0,0.21,Tetracycline
+VC_DWR1C3,Enterobacter cloacae complex,DW,NIT,128.0,2,4,0,0.21,Furanes
+VC_DWR1C3,Enterobacter cloacae complex,DW,ENR,0.12,0,4,0,0.21,Fluoroquinolone
+VC_DWR1C3,Enterobacter cloacae complex,DW,GEN,1.0,0,4,0,0.21,Aminoglycoside
+VC_DWR1C3,Enterobacter cloacae complex,DW,TET,2.0,0,4,0,0.21,Tetracycline
+VC_DWR1C3,Enterobacter cloacae complex,DW,IME,0.25,0,4,0,0.21,Carbapenem
+VC_DWR1C3,Enterobacter cloacae complex,DW,AMI,2.0,0,4,0,0.21,Aminoglycoside
+VC_DWR1C5,Enterobacter cloacae complex,DW,AMO,4.0,2,4,0,0.21,Penicillin + β-lactamase inhibitor
+VC_DWR1C5,Enterobacter cloacae complex,DW,TR/SL,20.0,0,4,0,0.21,Diaminopyrimidines/Sulfonamide
+VC_DWR1C5,Enterobacter cloacae complex,DW,CFX,64,2,4,0,0.21,Cephalosporin
+VC_DWR1C5,Enterobacter cloacae complex,DW,CHL,16.0,1,4,0,0.21,Phenicols
+VC_DWR1C5,Enterobacter cloacae complex,DW,DOX,2.0,0,4,0,0.21,Tetracycline
+VC_DWR1C5,Enterobacter cloacae complex,DW,NIT,128.0,2,4,0,0.21,Furanes
+VC_DWR1C5,Enterobacter cloacae complex,DW,ENR,0.12,0,4,0,0.21,Fluoroquinolone
+VC_DWR1C5,Enterobacter cloacae complex,DW,GEN,1.0,0,4,0,0.21,Aminoglycoside
+VC_DWR1C5,Enterobacter cloacae complex,DW,TET,2.0,0,4,0,0.21,Tetracycline
+VC_DWR1C5,Enterobacter cloacae complex,DW,IME,0.25,0,4,0,0.21,Carbapenem
+VC_DWR1C5,Enterobacter cloacae complex,DW,AMI,2.0,0,4,0,0.21,Aminoglycoside
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,CFX,4,0,1,2,0.05,Cephalosporin
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,CHL,2.0,0,1,2,0.05,Phenicols
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,AMP,32.0,2,1,2,0.05,Penicillin
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,DOX,1.0,0,1,2,0.05,Tetracycline
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,NIT,64.0,1,1,2,0.05,Furanes
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,GEN,1.0,0,1,2,0.05,Aminoglycoside
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,TET,1.0,0,1,2,0.05,Tetracycline
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,IME,0.25,0,1,2,0.05,Carbapenem
+VC_DWR1C6,Klebsiella pneumoniae ssp pneumoniae,DW,AMI,2.0,0,1,2,0.05,Aminoglycoside
+VC_DWR2C1,Enterobacter cloacae complex,DW,AMO,4.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+VC_DWR2C1,Enterobacter cloacae complex,DW,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+VC_DWR2C1,Enterobacter cloacae complex,DW,CFX,16,2,3,0,0.15,Cephalosporin
+VC_DWR2C1,Enterobacter cloacae complex,DW,CHL,8.0,0,3,0,0.15,Phenicols
+VC_DWR2C1,Enterobacter cloacae complex,DW,DOX,2.0,0,3,0,0.15,Tetracycline
+VC_DWR2C1,Enterobacter cloacae complex,DW,NIT,64.0,1,3,0,0.15,Furanes
+VC_DWR2C1,Enterobacter cloacae complex,DW,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+VC_DWR2C1,Enterobacter cloacae complex,DW,GEN,1.0,0,3,0,0.15,Aminoglycoside
+VC_DWR2C1,Enterobacter cloacae complex,DW,TET,2.0,0,3,0,0.15,Tetracycline
+VC_DWR2C1,Enterobacter cloacae complex,DW,IME,0.25,0,3,0,0.15,Carbapenem
+VC_DWR2C1,Enterobacter cloacae complex,DW,AMI,2.0,0,3,0,0.15,Aminoglycoside
+VC_DWR2C2,Enterobacter cloacae complex,DW,AMO,4.0,2,5,0,0.26,Penicillin + β-lactamase inhibitor
+VC_DWR2C2,Enterobacter cloacae complex,DW,TR/SL,20.0,0,5,0,0.26,Diaminopyrimidines/Sulfonamide
+VC_DWR2C2,Enterobacter cloacae complex,DW,CFX,64,2,5,0,0.26,Cephalosporin
+VC_DWR2C2,Enterobacter cloacae complex,DW,CHL,16.0,1,5,0,0.26,Phenicols
+VC_DWR2C2,Enterobacter cloacae complex,DW,DOX,2.0,0,5,0,0.26,Tetracycline
+VC_DWR2C2,Enterobacter cloacae complex,DW,NIT,128.0,2,5,0,0.26,Furanes
+VC_DWR2C2,Enterobacter cloacae complex,DW,ENR,0.12,0,5,0,0.26,Fluoroquinolone
+VC_DWR2C2,Enterobacter cloacae complex,DW,GEN,1.0,0,5,0,0.26,Aminoglycoside
+VC_DWR2C2,Enterobacter cloacae complex,DW,TET,2.0,0,5,0,0.26,Tetracycline
+VC_DWR2C2,Enterobacter cloacae complex,DW,IME,0.25,0,5,0,0.26,Carbapenem
+VC_DWR2C2,Enterobacter cloacae complex,DW,AMI,2.0,0,5,0,0.26,Aminoglycoside
+VC_DWR3C2,Enterobacter cloacae complex,DW,AMO,2.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+VC_DWR3C2,Enterobacter cloacae complex,DW,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+VC_DWR3C2,Enterobacter cloacae complex,DW,CFX,16,2,3,0,0.15,Cephalosporin
+VC_DWR3C2,Enterobacter cloacae complex,DW,CHL,16.0,1,3,0,0.15,Phenicols
+VC_DWR3C2,Enterobacter cloacae complex,DW,DOX,2.0,0,3,0,0.15,Tetracycline
+VC_DWR3C2,Enterobacter cloacae complex,DW,NIT,64.0,1,3,0,0.15,Furanes
+VC_DWR3C2,Enterobacter cloacae complex,DW,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+VC_DWR3C2,Enterobacter cloacae complex,DW,GEN,1.0,0,3,0,0.15,Aminoglycoside
+VC_DWR3C2,Enterobacter cloacae complex,DW,TET,2.0,0,3,0,0.15,Tetracycline
+VC_DWR3C2,Enterobacter cloacae complex,DW,IME,0.25,0,3,0,0.15,Carbapenem
+VC_DWR3C2,Enterobacter cloacae complex,DW,AMI,2.0,0,3,0,0.15,Aminoglycoside
+VC_DWR3C3,Enterobacter cloacae complex,DW,AMO,32.0,2,6,0,0.32,Penicillin + β-lactamase inhibitor
+VC_DWR3C3,Enterobacter cloacae complex,DW,TR/SL,20.0,0,6,0,0.32,Diaminopyrimidines/Sulfonamide
+VC_DWR3C3,Enterobacter cloacae complex,DW,CFX,64,2,6,0,0.32,Cephalosporin
+VC_DWR3C3,Enterobacter cloacae complex,DW,CHL,16.0,1,6,0,0.32,Phenicols
+VC_DWR3C3,Enterobacter cloacae complex,DW,DOX,16.0,2,6,0,0.32,Tetracycline
+VC_DWR3C3,Enterobacter cloacae complex,DW,NIT,128.0,2,6,0,0.32,Furanes
+VC_DWR3C3,Enterobacter cloacae complex,DW,ENR,0.12,0,6,0,0.32,Fluoroquinolone
+VC_DWR3C3,Enterobacter cloacae complex,DW,GEN,1.0,0,6,0,0.32,Aminoglycoside
+VC_DWR3C3,Enterobacter cloacae complex,DW,TET,16.0,2,6,0,0.32,Tetracycline
+VC_DWR3C3,Enterobacter cloacae complex,DW,IME,0.25,0,6,0,0.32,Carbapenem
+VC_DWR3C3,Enterobacter cloacae complex,DW,AMI,2.0,0,6,0,0.32,Aminoglycoside
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,CFX,4,0,2,2,0.09,Cephalosporin
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,CHL,2.0,0,2,2,0.09,Phenicols
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMP,32.0,2,2,2,0.09,Penicillin
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,DOX,1.0,1,2,2,0.09,Tetracycline
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,NIT,32.0,0,2,2,0.09,Furanes
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,TET,16.0,2,2,2,0.09,Tetracycline
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,IME,0.25,0,2,2,0.09,Carbapenem
+EC_LWR1C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_LWR2C1,Enterobacter cloacae complex,LW,AMO,32.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+EC_LWR2C1,Enterobacter cloacae complex,LW,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+EC_LWR2C1,Enterobacter cloacae complex,LW,CFX,64,2,3,0,0.15,Cephalosporin
+EC_LWR2C1,Enterobacter cloacae complex,LW,CHL,4.0,0,3,0,0.15,Phenicols
+EC_LWR2C1,Enterobacter cloacae complex,LW,DOX,1.0,0,3,0,0.15,Tetracycline
+EC_LWR2C1,Enterobacter cloacae complex,LW,NIT,64.0,1,3,0,0.15,Furanes
+EC_LWR2C1,Enterobacter cloacae complex,LW,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+EC_LWR2C1,Enterobacter cloacae complex,LW,GEN,1.0,0,3,0,0.15,Aminoglycoside
+EC_LWR2C1,Enterobacter cloacae complex,LW,TET,1.0,0,3,0,0.15,Tetracycline
+EC_LWR2C1,Enterobacter cloacae complex,LW,IME,0.25,0,3,0,0.15,Carbapenem
+EC_LWR2C1,Enterobacter cloacae complex,LW,AMI,2.0,0,3,0,0.15,Aminoglycoside
+EC_LWR2C3,Escherichia coli,LW,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_LWR2C3,Escherichia coli,LW,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_LWR2C3,Escherichia coli,LW,CFX,8,0,0,2,0.0,Cephalosporin
+EC_LWR2C3,Escherichia coli,LW,CHL,8.0,0,0,2,0.0,Phenicols
+EC_LWR2C3,Escherichia coli,LW,AMP,4.0,0,0,2,0.0,Penicillin
+EC_LWR2C3,Escherichia coli,LW,DOX,2.0,0,0,2,0.0,Tetracycline
+EC_LWR2C3,Escherichia coli,LW,NIT,16.0,0,0,2,0.0,Furanes
+EC_LWR2C3,Escherichia coli,LW,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_LWR2C3,Escherichia coli,LW,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_LWR2C3,Escherichia coli,LW,TET,1.0,0,0,2,0.0,Tetracycline
+EC_LWR2C3,Escherichia coli,LW,IME,0.25,0,0,2,0.0,Carbapenem
+EC_LWR2C3,Escherichia coli,LW,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_LWR2C4,Escherichia coli,LW,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_LWR2C4,Escherichia coli,LW,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_LWR2C4,Escherichia coli,LW,CFX,8,0,0,2,0.0,Cephalosporin
+EC_LWR2C4,Escherichia coli,LW,CHL,8.0,0,0,2,0.0,Phenicols
+EC_LWR2C4,Escherichia coli,LW,AMP,2.0,0,0,2,0.0,Penicillin
+EC_LWR2C4,Escherichia coli,LW,DOX,2.0,0,0,2,0.0,Tetracycline
+EC_LWR2C4,Escherichia coli,LW,NIT,16.0,0,0,2,0.0,Furanes
+EC_LWR2C4,Escherichia coli,LW,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_LWR2C4,Escherichia coli,LW,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_LWR2C4,Escherichia coli,LW,TET,1.0,0,0,2,0.0,Tetracycline
+EC_LWR2C4,Escherichia coli,LW,IME,0.25,0,0,2,0.0,Carbapenem
+EC_LWR2C4,Escherichia coli,LW,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,AMO,32.0,2,10,2,0.5,Penicillin + β-lactamase inhibitor
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,TR/SL,320.0,2,10,2,0.5,Diaminopyrimidines/Sulfonamide
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,CFX,64,2,10,2,0.5,Cephalosporin
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,CHL,2.0,0,10,2,0.5,Phenicols
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,AMP,32.0,2,10,2,0.5,Penicillin
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,DOX,16.0,2,10,2,0.5,Tetracycline
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,NIT,64.0,1,10,2,0.5,Furanes
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,ENR,1.0,1,10,2,0.5,Fluoroquinolone
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,GEN,1.0,0,10,2,0.5,Aminoglycoside
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,TET,16.0,2,10,2,0.5,Tetracycline
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,IME,0.25,0,10,2,0.5,Carbapenem
+EC_LWR2C5,Klebsiella pneumoniae ssp pneumoniae,LW,AMI,2.0,0,10,2,0.5,Aminoglycoside
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMO,32.0,2,10,2,0.5,Penicillin + β-lactamase inhibitor
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,TR/SL,320.0,2,10,2,0.5,Diaminopyrimidines/Sulfonamide
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,CFX,64,2,10,2,0.5,Cephalosporin
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,CHL,4.0,0,10,2,0.5,Phenicols
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMP,32.0,2,10,2,0.5,Penicillin
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,DOX,16.0,2,10,2,0.5,Tetracycline
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,NIT,64.0,1,10,2,0.5,Furanes
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,ENR,1.0,1,10,2,0.5,Fluoroquinolone
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,GEN,1.0,0,10,2,0.5,Aminoglycoside
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,TET,16.0,2,10,2,0.5,Tetracycline
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,IME,0.25,0,10,2,0.5,Carbapenem
+EC_LWR2C6,Klebsiella pneumoniae ssp pneumoniae,LW,AMI,2.0,0,10,2,0.5,Aminoglycoside
+EC_LWR3C4,Escherichia coli,LW,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_LWR3C4,Escherichia coli,LW,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_LWR3C4,Escherichia coli,LW,CFX,8,0,2,2,0.09,Cephalosporin
+EC_LWR3C4,Escherichia coli,LW,CHL,2.0,0,2,2,0.09,Phenicols
+EC_LWR3C4,Escherichia coli,LW,AMP,2.0,0,2,2,0.09,Penicillin
+EC_LWR3C4,Escherichia coli,LW,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_LWR3C4,Escherichia coli,LW,NIT,16.0,0,2,2,0.09,Furanes
+EC_LWR3C4,Escherichia coli,LW,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_LWR3C4,Escherichia coli,LW,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_LWR3C4,Escherichia coli,LW,TET,16.0,2,2,2,0.09,Tetracycline
+EC_LWR3C4,Escherichia coli,LW,IME,0.25,0,2,2,0.09,Carbapenem
+EC_LWR3C4,Escherichia coli,LW,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_LWR3C8,Enterobacter cloacae complex,LW,AMO,32.0,2,3,0,0.14,Penicillin + β-lactamase inhibitor
+EC_LWR3C8,Enterobacter cloacae complex,LW,TR/SL,20.0,0,3,0,0.14,Diaminopyrimidines/Sulfonamide
+EC_LWR3C8,Enterobacter cloacae complex,LW,CFX,64,2,3,0,0.14,Cephalosporin
+EC_LWR3C8,Enterobacter cloacae complex,LW,CHL,4.0,0,3,0,0.14,Phenicols
+EC_LWR3C8,Enterobacter cloacae complex,LW,DOX,2.0,0,3,0,0.14,Tetracycline
+EC_LWR3C8,Enterobacter cloacae complex,LW,NIT,64.0,1,3,0,0.14,Furanes
+EC_LWR3C8,Enterobacter cloacae complex,LW,ENR,0.12,0,3,0,0.14,Fluoroquinolone
+EC_LWR3C8,Enterobacter cloacae complex,LW,GEN,1.0,0,3,0,0.14,Aminoglycoside
+EC_LWR3C8,Enterobacter cloacae complex,LW,TET,1.0,0,3,0,0.14,Tetracycline
+EC_LWR3C8,Enterobacter cloacae complex,LW,IME,0.25,0,3,0,0.14,Carbapenem
+EC_LWR3C8,Enterobacter cloacae complex,LW,AMI,2.0,0,3,0,0.14,Aminoglycoside
+VC_LWR1C11,Vibrio cholerae,LW,AMO,2.0,0,1,0,0.06,Penicillin + β-lactamase inhibitor
+VC_LWR1C11,Vibrio cholerae,LW,TR/SL,20.0,0,1,0,0.06,Diaminopyrimidines/Sulfonamide
+VC_LWR1C11,Vibrio cholerae,LW,CHL,2.0,0,1,0,0.06,Phenicols
+VC_LWR1C11,Vibrio cholerae,LW,AMP,32.0,2,1,0,0.06,Penicillin
+VC_LWR1C11,Vibrio cholerae,LW,DOX,0.5,0,1,0,0.06,Tetracycline
+VC_LWR1C11,Vibrio cholerae,LW,ENR,0.12,0,1,0,0.06,Fluoroquinolone
+VC_LWR1C11,Vibrio cholerae,LW,GEN,1.0,0,1,0,0.06,Aminoglycoside
+VC_LWR1C11,Vibrio cholerae,LW,TET,1.0,0,1,0,0.06,Tetracycline
+VC_LWR1C11,Vibrio cholerae,LW,IME,0.25,0,1,0,0.06,Carbapenem
+VC_LWR1C11,Vibrio cholerae,LW,AMI,2.0,0,1,0,0.06,Aminoglycoside
+VC_LWR2C5,Escherichia coli,LW,AMO,2.0,0,2,1,0.11,Penicillin + β-lactamase inhibitor
+VC_LWR2C5,Escherichia coli,LW,CFX,8,0,2,1,0.11,Cephalosporin
+VC_LWR2C5,Escherichia coli,LW,CHL,2.0,0,2,1,0.11,Phenicols
+VC_LWR2C5,Escherichia coli,LW,DOX,0.5,0,2,1,0.11,Tetracycline
+VC_LWR2C5,Escherichia coli,LW,NIT,16.0,0,2,1,0.11,Furanes
+VC_LWR2C5,Escherichia coli,LW,ENR,0.25,0,2,1,0.11,Fluoroquinolone
+VC_LWR2C5,Escherichia coli,LW,GEN,1.0,0,2,1,0.11,Aminoglycoside
+VC_LWR2C5,Escherichia coli,LW,TET,1.0,0,2,1,0.11,Tetracycline
+VC_LWR2C5,Escherichia coli,LW,IME,0.25,0,2,1,0.11,Carbapenem
+VC_LWR2C5,Escherichia coli,LW,AMI,2.0,0,2,1,0.11,Aminoglycoside
+VC_LWR3C1,Enterobacter cloacae complex,LW,AMO,2.0,2,4,0,0.2,Penicillin + β-lactamase inhibitor
+VC_LWR3C1,Enterobacter cloacae complex,LW,TR/SL,20.0,0,4,0,0.2,Diaminopyrimidines/Sulfonamide
+VC_LWR3C1,Enterobacter cloacae complex,LW,CFX,16,2,4,0,0.2,Cephalosporin
+VC_LWR3C1,Enterobacter cloacae complex,LW,CHL,16.0,1,4,0,0.2,Phenicols
+VC_LWR3C1,Enterobacter cloacae complex,LW,DOX,2.0,0,4,0,0.2,Tetracycline
+VC_LWR3C1,Enterobacter cloacae complex,LW,NIT,128.0,2,4,0,0.2,Furanes
+VC_LWR3C1,Enterobacter cloacae complex,LW,ENR,0.12,0,4,0,0.2,Fluoroquinolone
+VC_LWR3C1,Enterobacter cloacae complex,LW,GEN,1.0,0,4,0,0.2,Aminoglycoside
+VC_LWR3C1,Enterobacter cloacae complex,LW,TET,2.0,0,4,0,0.2,Tetracycline
+VC_LWR3C1,Enterobacter cloacae complex,LW,IME,0.25,0,4,0,0.2,Carbapenem
+VC_LWR3C1,Enterobacter cloacae complex,LW,AMI,2.0,0,4,0,0.2,Aminoglycoside
+VC_LWR3C2,Enterobacter cloacae complex,LW,AMO,32.0,2,4,0,0.21,Penicillin + β-lactamase inhibitor
+VC_LWR3C2,Enterobacter cloacae complex,LW,TR/SL,20.0,0,4,0,0.21,Diaminopyrimidines/Sulfonamide
+VC_LWR3C2,Enterobacter cloacae complex,LW,CFX,64,2,4,0,0.21,Cephalosporin
+VC_LWR3C2,Enterobacter cloacae complex,LW,CHL,8.0,0,4,0,0.21,Phenicols
+VC_LWR3C2,Enterobacter cloacae complex,LW,DOX,4.0,0,4,0,0.21,Tetracycline
+VC_LWR3C2,Enterobacter cloacae complex,LW,NIT,128.0,2,4,0,0.21,Furanes
+VC_LWR3C2,Enterobacter cloacae complex,LW,ENR,0.12,0,4,0,0.21,Fluoroquinolone
+VC_LWR3C2,Enterobacter cloacae complex,LW,GEN,1.0,0,4,0,0.21,Aminoglycoside
+VC_LWR3C2,Enterobacter cloacae complex,LW,TET,2.0,0,4,0,0.21,Tetracycline
+VC_LWR3C2,Enterobacter cloacae complex,LW,IME,0.25,0,4,0,0.21,Carbapenem
+VC_LWR3C2,Enterobacter cloacae complex,LW,AMI,2.0,0,4,0,0.21,Aminoglycoside
+VC_LWR3C3,Vibrio vulnificus,LW,AMO,32.0,2,6,0,0.32,Penicillin + β-lactamase inhibitor
+VC_LWR3C3,Vibrio vulnificus,LW,TR/SL,20.0,0,6,0,0.32,Diaminopyrimidines/Sulfonamide
+VC_LWR3C3,Vibrio vulnificus,LW,CFX,64,2,6,0,0.32,Cephalosporin
+VC_LWR3C3,Vibrio vulnificus,LW,CHL,16.0,1,6,0,0.32,Phenicols
+VC_LWR3C3,Vibrio vulnificus,LW,DOX,16.0,2,6,0,0.32,Tetracycline
+VC_LWR3C3,Vibrio vulnificus,LW,NIT,128.0,2,6,0,0.32,Furanes
+VC_LWR3C3,Vibrio vulnificus,LW,ENR,0.12,0,6,0,0.32,Fluoroquinolone
+VC_LWR3C3,Vibrio vulnificus,LW,GEN,1.0,0,6,0,0.32,Aminoglycoside
+VC_LWR3C3,Vibrio vulnificus,LW,TET,16.0,2,6,0,0.32,Tetracycline
+VC_LWR3C3,Vibrio vulnificus,LW,IME,0.25,0,6,0,0.32,Carbapenem
+VC_LWR3C3,Vibrio vulnificus,LW,AMI,2.0,0,6,0,0.32,Aminoglycoside
+EC_FTR1C1,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR1C1,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR1C1,Escherichia coli,FT,CFX,4,0,0,2,0.0,Cephalosporin
+EC_FTR1C1,Escherichia coli,FT,CHL,2.0,0,0,2,0.0,Phenicols
+EC_FTR1C1,Escherichia coli,FT,AMP,16.0,1,0,2,0.0,Penicillin
+EC_FTR1C1,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C1,Escherichia coli,FT,NIT,64.0,1,0,2,0.0,Furanes
+EC_FTR1C1,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR1C1,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C1,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C1,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR1C1,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C2,Enterobacter cloacae complex,FT,AMO,32.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+EC_FTR1C2,Enterobacter cloacae complex,FT,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+EC_FTR1C2,Enterobacter cloacae complex,FT,CFX,64,2,3,0,0.15,Cephalosporin
+EC_FTR1C2,Enterobacter cloacae complex,FT,CHL,4.0,0,3,0,0.15,Phenicols
+EC_FTR1C2,Enterobacter cloacae complex,FT,DOX,1.0,0,3,0,0.15,Tetracycline
+EC_FTR1C2,Enterobacter cloacae complex,FT,NIT,16.0,0,3,0,0.15,Furanes
+EC_FTR1C2,Enterobacter cloacae complex,FT,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+EC_FTR1C2,Enterobacter cloacae complex,FT,GEN,1.0,0,3,0,0.15,Aminoglycoside
+EC_FTR1C2,Enterobacter cloacae complex,FT,TET,1.0,0,3,0,0.15,Tetracycline
+EC_FTR1C2,Enterobacter cloacae complex,FT,IME,0.25,0,3,0,0.15,Carbapenem
+EC_FTR1C2,Enterobacter cloacae complex,FT,AMI,2.0,0,3,0,0.15,Aminoglycoside
+EC_FTR1C9,Escherichia coli,FT,AMO,4.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FTR1C9,Escherichia coli,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FTR1C9,Escherichia coli,FT,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FTR1C9,Escherichia coli,FT,CHL,4.0,0,2,2,0.09,Phenicols
+EC_FTR1C9,Escherichia coli,FT,AMP,32.0,2,2,2,0.09,Penicillin
+EC_FTR1C9,Escherichia coli,FT,DOX,8.0,1,2,2,0.09,Tetracycline
+EC_FTR1C9,Escherichia coli,FT,NIT,16.0,0,2,2,0.09,Furanes
+EC_FTR1C9,Escherichia coli,FT,ENR,1.0,1,2,2,0.09,Fluoroquinolone
+EC_FTR1C9,Escherichia coli,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FTR1C9,Escherichia coli,FT,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FTR1C9,Escherichia coli,FT,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FTR1C9,Escherichia coli,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,8.0,0,4,2,0.19,Penicillin + β-lactamase inhibitor
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,320.0,2,4,2,0.19,Diaminopyrimidines/Sulfonamide
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,4,2,0.19,Cephalosporin
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,4,2,0.19,Phenicols
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,4,2,0.19,Penicillin
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,4,2,0.19,Tetracycline
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,16.0,0,4,2,0.19,Furanes
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,4,2,0.19,Fluoroquinolone
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,4,2,0.19,Aminoglycoside
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,4,2,0.19,Tetracycline
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,4,2,0.19,Carbapenem
+EC_FTR1C11,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,4,2,0.19,Aminoglycoside
+EC_FTR1C12,Escherichia coli,FT,AMO,2.0,0,0,2,0.0,Penicillin + β-lactamase inhibitor
+EC_FTR1C12,Escherichia coli,FT,TR/SL,20.0,0,0,2,0.0,Diaminopyrimidines/Sulfonamide
+EC_FTR1C12,Escherichia coli,FT,CFX,4,0,0,2,0.0,Cephalosporin
+EC_FTR1C12,Escherichia coli,FT,CHL,4.0,0,0,2,0.0,Phenicols
+EC_FTR1C12,Escherichia coli,FT,AMP,2.0,0,0,2,0.0,Penicillin
+EC_FTR1C12,Escherichia coli,FT,DOX,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C12,Escherichia coli,FT,NIT,16.0,0,0,2,0.0,Furanes
+EC_FTR1C12,Escherichia coli,FT,ENR,0.12,0,0,2,0.0,Fluoroquinolone
+EC_FTR1C12,Escherichia coli,FT,GEN,1.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C12,Escherichia coli,FT,TET,1.0,0,0,2,0.0,Tetracycline
+EC_FTR1C12,Escherichia coli,FT,IME,0.25,0,0,2,0.0,Carbapenem
+EC_FTR1C12,Escherichia coli,FT,AMI,2.0,0,0,2,0.0,Aminoglycoside
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,4.0,0,3,1,0.16,Penicillin + β-lactamase inhibitor
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,3,1,0.16,Diaminopyrimidines/Sulfonamide
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,64,2,3,1,0.16,Cephalosporin
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,4.0,0,3,1,0.16,Phenicols
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,3,1,0.16,Penicillin
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,3,1,0.16,Tetracycline
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,3,1,0.16,Furanes
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,3,1,0.16,Fluoroquinolone
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,3,1,0.16,Aminoglycoside
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,3,1,0.16,Tetracycline
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,3,1,0.16,Carbapenem
+EC_FTR1C13,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,3,1,0.16,Aminoglycoside
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,16.0,1,5,2,0.24,Penicillin + β-lactamase inhibitor
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,40.0,0,5,2,0.24,Diaminopyrimidines/Sulfonamide
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,64,2,5,2,0.24,Cephalosporin
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,4.0,0,5,2,0.24,Phenicols
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,5,2,0.24,Penicillin
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,5,2,0.24,Tetracycline
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,64.0,1,5,2,0.24,Furanes
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.5,0,5,2,0.24,Fluoroquinolone
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,5,2,0.24,Aminoglycoside
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,5,2,0.24,Tetracycline
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,5,2,0.24,Carbapenem
+EC_FTR1C15,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,5,2,0.24,Aminoglycoside
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,1,2,0.05,Furanes
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR1C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C1,Escherichia coli,FT,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FTR2C1,Escherichia coli,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FTR2C1,Escherichia coli,FT,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FTR2C1,Escherichia coli,FT,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FTR2C1,Escherichia coli,FT,AMP,4.0,0,2,2,0.09,Penicillin
+EC_FTR2C1,Escherichia coli,FT,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FTR2C1,Escherichia coli,FT,NIT,16.0,0,2,2,0.09,Furanes
+EC_FTR2C1,Escherichia coli,FT,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FTR2C1,Escherichia coli,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FTR2C1,Escherichia coli,FT,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FTR2C1,Escherichia coli,FT,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FTR2C1,Escherichia coli,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FTR2C2,Escherichia coli,FT,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FTR2C2,Escherichia coli,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FTR2C2,Escherichia coli,FT,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FTR2C2,Escherichia coli,FT,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FTR2C2,Escherichia coli,FT,AMP,4.0,0,2,2,0.09,Penicillin
+EC_FTR2C2,Escherichia coli,FT,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FTR2C2,Escherichia coli,FT,NIT,16.0,0,2,2,0.09,Furanes
+EC_FTR2C2,Escherichia coli,FT,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FTR2C2,Escherichia coli,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FTR2C2,Escherichia coli,FT,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FTR2C2,Escherichia coli,FT,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FTR2C2,Escherichia coli,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FTR2C3,Escherichia coli,FT,AMO,8.0,0,4,2,0.18,Penicillin + β-lactamase inhibitor
+EC_FTR2C3,Escherichia coli,FT,TR/SL,320.0,2,4,2,0.18,Diaminopyrimidines/Sulfonamide
+EC_FTR2C3,Escherichia coli,FT,CFX,8,0,4,2,0.18,Cephalosporin
+EC_FTR2C3,Escherichia coli,FT,CHL,4.0,0,4,2,0.18,Phenicols
+EC_FTR2C3,Escherichia coli,FT,AMP,32.0,2,4,2,0.18,Penicillin
+EC_FTR2C3,Escherichia coli,FT,DOX,16.0,2,4,2,0.18,Tetracycline
+EC_FTR2C3,Escherichia coli,FT,NIT,32.0,0,4,2,0.18,Furanes
+EC_FTR2C3,Escherichia coli,FT,ENR,0.12,0,4,2,0.18,Fluoroquinolone
+EC_FTR2C3,Escherichia coli,FT,GEN,1.0,0,4,2,0.18,Aminoglycoside
+EC_FTR2C3,Escherichia coli,FT,TET,16.0,2,4,2,0.18,Tetracycline
+EC_FTR2C3,Escherichia coli,FT,IME,0.25,0,4,2,0.18,Carbapenem
+EC_FTR2C3,Escherichia coli,FT,AMI,2.0,0,4,2,0.18,Aminoglycoside
+EC_FTR2C4,Escherichia coli,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR2C4,Escherichia coli,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR2C4,Escherichia coli,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR2C4,Escherichia coli,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR2C4,Escherichia coli,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR2C4,Escherichia coli,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C4,Escherichia coli,FT,NIT,64.0,1,1,2,0.05,Furanes
+EC_FTR2C4,Escherichia coli,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR2C4,Escherichia coli,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C4,Escherichia coli,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C4,Escherichia coli,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR2C4,Escherichia coli,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,1,2,0.05,Furanes
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR2C5,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,8.0,0,4,2,0.19,Penicillin + β-lactamase inhibitor
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,320.0,2,4,2,0.19,Diaminopyrimidines/Sulfonamide
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,4,2,0.19,Cephalosporin
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,4,2,0.19,Phenicols
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,4,2,0.19,Penicillin
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,4,2,0.19,Tetracycline
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,16.0,0,4,2,0.19,Furanes
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,4,2,0.19,Fluoroquinolone
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,4,2,0.19,Aminoglycoside
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,4,2,0.19,Tetracycline
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,4,2,0.19,Carbapenem
+EC_FTR2C7,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,4,2,0.19,Aminoglycoside
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,4.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,1,2,0.05,Furanes
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR2C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,4.0,0,4,2,0.18,Penicillin + β-lactamase inhibitor
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,320.0,2,4,2,0.18,Diaminopyrimidines/Sulfonamide
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,4,2,0.18,Cephalosporin
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,4,2,0.18,Phenicols
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,4,2,0.18,Penicillin
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,4,2,0.18,Tetracycline
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,16.0,0,4,2,0.18,Furanes
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,4,2,0.18,Fluoroquinolone
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,4,2,0.18,Aminoglycoside
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,4,2,0.18,Tetracycline
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,4,2,0.18,Carbapenem
+EC_FTR2C15,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,4,2,0.18,Aminoglycoside
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,1,2,0.05,Furanes
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR2C16,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C1,Escherichia coli,FT,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FTR3C1,Escherichia coli,FT,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FTR3C1,Escherichia coli,FT,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FTR3C1,Escherichia coli,FT,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FTR3C1,Escherichia coli,FT,AMP,4.0,0,2,2,0.09,Penicillin
+EC_FTR3C1,Escherichia coli,FT,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FTR3C1,Escherichia coli,FT,NIT,16.0,0,2,2,0.09,Furanes
+EC_FTR3C1,Escherichia coli,FT,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FTR3C1,Escherichia coli,FT,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FTR3C1,Escherichia coli,FT,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FTR3C1,Escherichia coli,FT,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FTR3C1,Escherichia coli,FT,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,64.0,1,1,2,0.05,Furanes
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR3C2,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C3,Enterobacter cloacae complex,FT,AMO,32.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+EC_FTR3C3,Enterobacter cloacae complex,FT,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+EC_FTR3C3,Enterobacter cloacae complex,FT,CFX,64,2,3,0,0.15,Cephalosporin
+EC_FTR3C3,Enterobacter cloacae complex,FT,CHL,2.0,0,3,0,0.15,Phenicols
+EC_FTR3C3,Enterobacter cloacae complex,FT,DOX,1.0,0,3,0,0.15,Tetracycline
+EC_FTR3C3,Enterobacter cloacae complex,FT,NIT,16.0,0,3,0,0.15,Furanes
+EC_FTR3C3,Enterobacter cloacae complex,FT,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+EC_FTR3C3,Enterobacter cloacae complex,FT,GEN,1.0,0,3,0,0.15,Aminoglycoside
+EC_FTR3C3,Enterobacter cloacae complex,FT,TET,1.0,0,3,0,0.15,Tetracycline
+EC_FTR3C3,Enterobacter cloacae complex,FT,IME,0.25,0,3,0,0.15,Carbapenem
+EC_FTR3C3,Enterobacter cloacae complex,FT,AMI,2.0,0,3,0,0.15,Aminoglycoside
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,8.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,4.0,0,1,2,0.05,Phenicols
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,64.0,1,1,2,0.05,Furanes
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,IME,1.0,0,1,2,0.05,Carbapenem
+EC_FTR3C4,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,2.0,2,1,2,0.05,Penicillin
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,64.0,1,1,2,0.05,Furanes
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR3C5,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,64.0,1,1,2,0.05,Furanes
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR3C7,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,1,2,0.05,Furanes
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR3C8,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,16.0,2,1,2,0.05,Penicillin
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,32.0,0,1,2,0.05,Furanes
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR3C9,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,4.0,0,4,2,0.18,Penicillin + β-lactamase inhibitor
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,320.0,2,4,2,0.18,Diaminopyrimidines/Sulfonamide
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,4,2,0.18,Cephalosporin
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,4,2,0.18,Phenicols
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,32.0,2,4,2,0.18,Penicillin
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,16.0,2,4,2,0.18,Tetracycline
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,16.0,0,4,2,0.18,Furanes
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,4,2,0.18,Fluoroquinolone
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,4,2,0.18,Aminoglycoside
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,TET,16.0,2,4,2,0.18,Tetracycline
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,4,2,0.18,Carbapenem
+EC_FTR3C13,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,4,2,0.18,Aminoglycoside
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,AMP,16.0,2,1,2,0.05,Penicillin
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,NIT,16.0,0,1,2,0.05,Furanes
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FTR3C14,Klebsiella pneumoniae ssp pneumoniae,FT,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR1C2,Escherichia coli,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR1C2,Escherichia coli,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR1C2,Escherichia coli,FK,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FKR1C2,Escherichia coli,FK,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FKR1C2,Escherichia coli,FK,AMP,2.0,0,2,2,0.09,Penicillin
+EC_FKR1C2,Escherichia coli,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C2,Escherichia coli,FK,NIT,16.0,0,2,2,0.09,Furanes
+EC_FKR1C2,Escherichia coli,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR1C2,Escherichia coli,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C2,Escherichia coli,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C2,Escherichia coli,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR1C2,Escherichia coli,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C3,Escherichia coli,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR1C3,Escherichia coli,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR1C3,Escherichia coli,FK,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FKR1C3,Escherichia coli,FK,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FKR1C3,Escherichia coli,FK,AMP,2.0,0,2,2,0.09,Penicillin
+EC_FKR1C3,Escherichia coli,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C3,Escherichia coli,FK,NIT,16.0,0,2,2,0.09,Furanes
+EC_FKR1C3,Escherichia coli,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR1C3,Escherichia coli,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C3,Escherichia coli,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C3,Escherichia coli,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR1C3,Escherichia coli,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C4,Enterobacter cloacae complex,FK,AMO,2.0,2,5,0,0.24,Penicillin + β-lactamase inhibitor
+EC_FKR1C4,Enterobacter cloacae complex,FK,TR/SL,20.0,0,5,0,0.24,Diaminopyrimidines/Sulfonamide
+EC_FKR1C4,Enterobacter cloacae complex,FK,CFX,64,2,5,0,0.24,Cephalosporin
+EC_FKR1C4,Enterobacter cloacae complex,FK,CHL,4.0,0,5,0,0.24,Phenicols
+EC_FKR1C4,Enterobacter cloacae complex,FK,DOX,16.0,2,5,0,0.24,Tetracycline
+EC_FKR1C4,Enterobacter cloacae complex,FK,NIT,64.0,1,5,0,0.24,Furanes
+EC_FKR1C4,Enterobacter cloacae complex,FK,ENR,0.12,0,5,0,0.24,Fluoroquinolone
+EC_FKR1C4,Enterobacter cloacae complex,FK,GEN,1.0,0,5,0,0.24,Aminoglycoside
+EC_FKR1C4,Enterobacter cloacae complex,FK,TET,16.0,2,5,0,0.24,Tetracycline
+EC_FKR1C4,Enterobacter cloacae complex,FK,IME,0.25,0,5,0,0.24,Carbapenem
+EC_FKR1C4,Enterobacter cloacae complex,FK,AMI,2.0,0,5,0,0.24,Aminoglycoside
+EC_FKR1C6,Escherichia coli,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR1C6,Escherichia coli,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR1C6,Escherichia coli,FK,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FKR1C6,Escherichia coli,FK,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FKR1C6,Escherichia coli,FK,AMP,2.0,0,2,2,0.09,Penicillin
+EC_FKR1C6,Escherichia coli,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C6,Escherichia coli,FK,NIT,16.0,0,2,2,0.09,Furanes
+EC_FKR1C6,Escherichia coli,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR1C6,Escherichia coli,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C6,Escherichia coli,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C6,Escherichia coli,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,3,2,0.14,Penicillin + β-lactamase inhibitor
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,3,2,0.14,Diaminopyrimidines/Sulfonamide
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,3,2,0.14,Cephalosporin
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,3,2,0.14,Phenicols
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,3,2,0.14,Penicillin
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,2.0,1,3,2,0.14,Tetracycline
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,128.0,2,3,2,0.14,Furanes
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,3,2,0.14,Fluoroquinolone
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,3,2,0.14,Aminoglycoside
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,TET,16.0,2,3,2,0.14,Tetracycline
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,3,2,0.14,Carbapenem
+EC_FKR1C7,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,3,2,0.14,Aminoglycoside
+EC_FKR1C8,Escherichia coli,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR1C8,Escherichia coli,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR1C8,Escherichia coli,FK,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FKR1C8,Escherichia coli,FK,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FKR1C8,Escherichia coli,FK,AMP,2.0,0,2,2,0.09,Penicillin
+EC_FKR1C8,Escherichia coli,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C8,Escherichia coli,FK,NIT,16.0,0,2,2,0.09,Furanes
+EC_FKR1C8,Escherichia coli,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR1C8,Escherichia coli,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C8,Escherichia coli,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C8,Escherichia coli,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR1C8,Escherichia coli,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C9,Enterobacter cloacae complex,FK,AMO,32.0,2,3,0,0.15,Penicillin + β-lactamase inhibitor
+EC_FKR1C9,Enterobacter cloacae complex,FK,TR/SL,20.0,0,3,0,0.15,Diaminopyrimidines/Sulfonamide
+EC_FKR1C9,Enterobacter cloacae complex,FK,CFX,64,2,3,0,0.15,Cephalosporin
+EC_FKR1C9,Enterobacter cloacae complex,FK,CHL,8.0,0,3,0,0.15,Phenicols
+EC_FKR1C9,Enterobacter cloacae complex,FK,DOX,4.0,0,3,0,0.15,Tetracycline
+EC_FKR1C9,Enterobacter cloacae complex,FK,NIT,32.0,0,3,0,0.15,Furanes
+EC_FKR1C9,Enterobacter cloacae complex,FK,ENR,0.12,0,3,0,0.15,Fluoroquinolone
+EC_FKR1C9,Enterobacter cloacae complex,FK,GEN,1.0,0,3,0,0.15,Aminoglycoside
+EC_FKR1C9,Enterobacter cloacae complex,FK,TET,2.0,0,3,0,0.15,Tetracycline
+EC_FKR1C9,Enterobacter cloacae complex,FK,IME,0.5,0,3,0,0.15,Carbapenem
+EC_FKR1C9,Enterobacter cloacae complex,FK,AMI,2.0,0,3,0,0.15,Aminoglycoside
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,32.0,2,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,2,2,0.09,Cephalosporin
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,4.0,0,2,2,0.09,Phenicols
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,2,2,0.09,Penicillin
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,64.0,1,2,2,0.09,Furanes
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,2,2,0.09,Tetracycline
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR1C11,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,4.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,1,2,0.05,Furanes
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR1C15,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,2,2,0.09,Cephalosporin
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,4.0,0,2,2,0.09,Phenicols
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,2,2,0.09,Penicillin
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,2.0,1,2,2,0.09,Tetracycline
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,64.0,1,2,2,0.09,Furanes
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR1C16,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR2C1,Escherichia coli,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR2C1,Escherichia coli,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR2C1,Escherichia coli,FK,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FKR2C1,Escherichia coli,FK,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FKR2C1,Escherichia coli,FK,AMP,2.0,0,2,2,0.09,Penicillin
+EC_FKR2C1,Escherichia coli,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR2C1,Escherichia coli,FK,NIT,16.0,0,2,2,0.09,Furanes
+EC_FKR2C1,Escherichia coli,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR2C1,Escherichia coli,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR2C1,Escherichia coli,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR2C1,Escherichia coli,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR2C1,Escherichia coli,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,64.0,1,1,2,0.05,Furanes
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR2C2,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,16.0,2,1,2,0.05,Penicillin
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,1,2,0.05,Furanes
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR2C3,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C4,Enterobacter cloacae complex,FK,AMO,4.0,0,0,0,0.0,Penicillin + β-lactamase inhibitor
+EC_FKR2C4,Enterobacter cloacae complex,FK,TR/SL,20.0,0,0,0,0.0,Diaminopyrimidines/Sulfonamide
+EC_FKR2C4,Enterobacter cloacae complex,FK,CFX,4,0,0,0,0.0,Cephalosporin
+EC_FKR2C4,Enterobacter cloacae complex,FK,CHL,2.0,0,0,0,0.0,Phenicols
+EC_FKR2C4,Enterobacter cloacae complex,FK,DOX,1.0,0,0,0,0.0,Tetracycline
+EC_FKR2C4,Enterobacter cloacae complex,FK,NIT,32.0,0,0,0,0.0,Furanes
+EC_FKR2C4,Enterobacter cloacae complex,FK,ENR,0.12,0,0,0,0.0,Fluoroquinolone
+EC_FKR2C4,Enterobacter cloacae complex,FK,GEN,1.0,0,0,0,0.0,Aminoglycoside
+EC_FKR2C4,Enterobacter cloacae complex,FK,TET,1.0,0,0,0,0.0,Tetracycline
+EC_FKR2C4,Enterobacter cloacae complex,FK,IME,0.25,0,0,0,0.0,Carbapenem
+EC_FKR2C4,Enterobacter cloacae complex,FK,AMI,2.0,0,0,0,0.0,Aminoglycoside
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,4.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,4.0,0,1,2,0.05,Phenicols
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,16.0,2,1,2,0.05,Penicillin
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,64.0,1,1,2,0.05,Furanes
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR2C6,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C11,Enterobacter aerogenes,FK,AMO,4.0,0,0,0,0.0,Penicillin + β-lactamase inhibitor
+EC_FKR2C11,Enterobacter aerogenes,FK,TR/SL,20.0,0,0,0,0.0,Diaminopyrimidines/Sulfonamide
+EC_FKR2C11,Enterobacter aerogenes,FK,CFX,4,0,0,0,0.0,Cephalosporin
+EC_FKR2C11,Enterobacter aerogenes,FK,CHL,2.0,0,0,0,0.0,Phenicols
+EC_FKR2C11,Enterobacter aerogenes,FK,DOX,1.0,0,0,0,0.0,Tetracycline
+EC_FKR2C11,Enterobacter aerogenes,FK,NIT,64.0,1,0,0,0.0,Furanes
+EC_FKR2C11,Enterobacter aerogenes,FK,ENR,0.12,0,0,0,0.0,Fluoroquinolone
+EC_FKR2C11,Enterobacter aerogenes,FK,GEN,1.0,0,0,0,0.0,Aminoglycoside
+EC_FKR2C11,Enterobacter aerogenes,FK,TET,1.0,0,0,0,0.0,Tetracycline
+EC_FKR2C11,Enterobacter aerogenes,FK,IME,0.25,0,0,0,0.0,Carbapenem
+EC_FKR2C11,Enterobacter aerogenes,FK,AMI,2.0,0,0,0,0.0,Aminoglycoside
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,5,2,0.23,Penicillin + β-lactamase inhibitor
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,5,2,0.23,Diaminopyrimidines/Sulfonamide
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,64,2,5,2,0.23,Cephalosporin
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,5,2,0.23,Phenicols
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,5,2,0.23,Penicillin
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,16.0,2,5,2,0.23,Tetracycline
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,64.0,1,5,2,0.23,Furanes
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.25,0,5,2,0.23,Fluoroquinolone
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,5,2,0.23,Aminoglycoside
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,TET,16.0,2,5,2,0.23,Tetracycline
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,5,2,0.23,Carbapenem
+EC_FKR2C13,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,5,2,0.23,Aminoglycoside
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,1,2,0.05,Penicillin
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,1,2,0.05,Furanes
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR2C14,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR2C15,Escherichia coli,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR2C15,Escherichia coli,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR2C15,Escherichia coli,FK,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FKR2C15,Escherichia coli,FK,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FKR2C15,Escherichia coli,FK,AMP,2.0,0,2,2,0.09,Penicillin
+EC_FKR2C15,Escherichia coli,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR2C15,Escherichia coli,FK,NIT,16.0,0,2,2,0.09,Furanes
+EC_FKR2C15,Escherichia coli,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR2C15,Escherichia coli,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR2C15,Escherichia coli,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR2C15,Escherichia coli,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR2C15,Escherichia coli,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR3C2,Escherichia coli,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR3C2,Escherichia coli,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR3C2,Escherichia coli,FK,CFX,8,0,2,2,0.09,Cephalosporin
+EC_FKR3C2,Escherichia coli,FK,CHL,8.0,0,2,2,0.09,Phenicols
+EC_FKR3C2,Escherichia coli,FK,AMP,2.0,0,2,2,0.09,Penicillin
+EC_FKR3C2,Escherichia coli,FK,DOX,16.0,2,2,2,0.09,Tetracycline
+EC_FKR3C2,Escherichia coli,FK,NIT,16.0,0,2,2,0.09,Furanes
+EC_FKR3C2,Escherichia coli,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR3C2,Escherichia coli,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR3C2,Escherichia coli,FK,TET,16.0,2,2,2,0.09,Tetracycline
+EC_FKR3C2,Escherichia coli,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR3C2,Escherichia coli,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
+EC_FKR3C3,Enterobacter cloacae complex,FK,AMO,2.0,2,5,0,0.25,Penicillin + β-lactamase inhibitor
+EC_FKR3C3,Enterobacter cloacae complex,FK,TR/SL,20.0,0,5,0,0.25,Diaminopyrimidines/Sulfonamide
+EC_FKR3C3,Enterobacter cloacae complex,FK,CFX,8,2,5,0,0.25,Cephalosporin
+EC_FKR3C3,Enterobacter cloacae complex,FK,CHL,8.0,0,5,0,0.25,Phenicols
+EC_FKR3C3,Enterobacter cloacae complex,FK,DOX,16.0,2,5,0,0.25,Tetracycline
+EC_FKR3C3,Enterobacter cloacae complex,FK,NIT,16.0,0,5,0,0.25,Furanes
+EC_FKR3C3,Enterobacter cloacae complex,FK,ENR,0.12,0,5,0,0.25,Fluoroquinolone
+EC_FKR3C3,Enterobacter cloacae complex,FK,GEN,1.0,0,5,0,0.25,Aminoglycoside
+EC_FKR3C3,Enterobacter cloacae complex,FK,TET,16.0,2,5,0,0.25,Tetracycline
+EC_FKR3C3,Enterobacter cloacae complex,FK,IME,0.25,0,5,0,0.25,Carbapenem
+EC_FKR3C3,Enterobacter cloacae complex,FK,AMI,2.0,0,5,0,0.25,Aminoglycoside
+EC_FKR3C4,Enterobacter cloacae complex,FK,AMO,2.0,2,5,0,0.25,Penicillin + β-lactamase inhibitor
+EC_FKR3C4,Enterobacter cloacae complex,FK,TR/SL,20.0,0,5,0,0.25,Diaminopyrimidines/Sulfonamide
+EC_FKR3C4,Enterobacter cloacae complex,FK,CFX,8,2,5,0,0.25,Cephalosporin
+EC_FKR3C4,Enterobacter cloacae complex,FK,CHL,8.0,0,5,0,0.25,Phenicols
+EC_FKR3C4,Enterobacter cloacae complex,FK,DOX,16.0,2,5,0,0.25,Tetracycline
+EC_FKR3C4,Enterobacter cloacae complex,FK,NIT,16.0,0,5,0,0.25,Furanes
+EC_FKR3C4,Enterobacter cloacae complex,FK,ENR,0.12,0,5,0,0.25,Fluoroquinolone
+EC_FKR3C4,Enterobacter cloacae complex,FK,GEN,1.0,0,5,0,0.25,Aminoglycoside
+EC_FKR3C4,Enterobacter cloacae complex,FK,TET,16.0,2,5,0,0.25,Tetracycline
+EC_FKR3C4,Enterobacter cloacae complex,FK,IME,0.25,0,5,0,0.25,Carbapenem
+EC_FKR3C4,Enterobacter cloacae complex,FK,AMI,2.0,0,5,0,0.25,Aminoglycoside
+EC_FKR3C7,Enterobacter aerogenes,FK,AMO,32.0,2,3,0,0.14,Penicillin + β-lactamase inhibitor
+EC_FKR3C7,Enterobacter aerogenes,FK,TR/SL,20.0,0,3,0,0.14,Diaminopyrimidines/Sulfonamide
+EC_FKR3C7,Enterobacter aerogenes,FK,CFX,64,2,3,0,0.14,Cephalosporin
+EC_FKR3C7,Enterobacter aerogenes,FK,CHL,4.0,0,3,0,0.14,Phenicols
+EC_FKR3C7,Enterobacter aerogenes,FK,DOX,1.0,0,3,0,0.14,Tetracycline
+EC_FKR3C7,Enterobacter aerogenes,FK,NIT,64.0,1,3,0,0.14,Furanes
+EC_FKR3C7,Enterobacter aerogenes,FK,ENR,0.12,0,3,0,0.14,Fluoroquinolone
+EC_FKR3C7,Enterobacter aerogenes,FK,GEN,1.0,0,3,0,0.14,Aminoglycoside
+EC_FKR3C7,Enterobacter aerogenes,FK,TET,1.0,0,3,0,0.14,Tetracycline
+EC_FKR3C7,Enterobacter aerogenes,FK,IME,1.0,0,3,0,0.14,Carbapenem
+EC_FKR3C7,Enterobacter aerogenes,FK,AMI,2.0,0,3,0,0.14,Aminoglycoside
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,1,2,0.05,Penicillin + β-lactamase inhibitor
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,1,2,0.05,Diaminopyrimidines/Sulfonamide
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,4,0,1,2,0.05,Cephalosporin
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,1,2,0.05,Phenicols
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,16.0,2,1,2,0.05,Penicillin
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,1,2,0.05,Tetracycline
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,1,2,0.05,Furanes
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,1,2,0.05,Fluoroquinolone
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,1,2,0.05,Aminoglycoside
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,1,2,0.05,Tetracycline
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,1,2,0.05,Carbapenem
+EC_FKR3C10,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,1,2,0.05,Aminoglycoside
+EC_FKR3C11,Enterobacter aerogenes,FK,AMO,2.0,0,0,0,0.0,Penicillin + β-lactamase inhibitor
+EC_FKR3C11,Enterobacter aerogenes,FK,TR/SL,20.0,0,0,0,0.0,Diaminopyrimidines/Sulfonamide
+EC_FKR3C11,Enterobacter aerogenes,FK,CFX,4,0,0,0,0.0,Cephalosporin
+EC_FKR3C11,Enterobacter aerogenes,FK,CHL,2.0,0,0,0,0.0,Phenicols
+EC_FKR3C11,Enterobacter aerogenes,FK,DOX,1.0,0,0,0,0.0,Tetracycline
+EC_FKR3C11,Enterobacter aerogenes,FK,NIT,64.0,1,0,0,0.0,Furanes
+EC_FKR3C11,Enterobacter aerogenes,FK,ENR,0.12,0,0,0,0.0,Fluoroquinolone
+EC_FKR3C11,Enterobacter aerogenes,FK,GEN,1.0,0,0,0,0.0,Aminoglycoside
+EC_FKR3C11,Enterobacter aerogenes,FK,TET,1.0,0,0,0,0.0,Tetracycline
+EC_FKR3C11,Enterobacter aerogenes,FK,IME,0.25,0,0,0,0.0,Carbapenem
+EC_FKR3C11,Enterobacter aerogenes,FK,AMI,2.0,0,0,0,0.0,Aminoglycoside
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,AMO,2.0,0,2,2,0.09,Penicillin + β-lactamase inhibitor
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,TR/SL,20.0,0,2,2,0.09,Diaminopyrimidines/Sulfonamide
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,CFX,64,2,2,2,0.09,Cephalosporin
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,CHL,2.0,0,2,2,0.09,Phenicols
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,AMP,32.0,2,2,2,0.09,Penicillin
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,DOX,1.0,0,2,2,0.09,Tetracycline
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,NIT,32.0,0,2,2,0.09,Furanes
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,ENR,0.12,0,2,2,0.09,Fluoroquinolone
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,GEN,1.0,0,2,2,0.09,Aminoglycoside
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,TET,1.0,0,2,2,0.09,Tetracycline
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,IME,0.25,0,2,2,0.09,Carbapenem
+EC_FKR3C13,Klebsiella pneumoniae ssp pneumoniae,FK,AMI,2.0,0,2,2,0.09,Aminoglycoside
