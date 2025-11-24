@@ -1,0 +1,151 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,CODE,ISOLATE ID,LEVEL OF RESISTANCE ON TEST ANTIBIOTICS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scored Resistance,MAR INDEX
+,,,ESBL,AMP,,AMO,,CFT,,CFX,,CFL,,CFP,,CFA,,CFO,,CFI,,CFZ,,IME,,AMI,,GEN,,NEO,,NLA,,ENR,,MAR,,PRA,,DOX,,TET,,NIT,,CHL,,TR/SL,,,
+,,,,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,,
+,EC_MDDWR1C1,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,>=4,S,>=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,EC_MDDWR1C2,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,4,S,,S,<=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,,S,<=2,S,<=1,S,<=2,S,,,<=2,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MDDWR2C3,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,SAL_MDDWR2C1,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,,>=64,R,>=64,R,>=8,R,,,>=8,R,>=8,R,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=2,I,<=0.5,S,<=0.12,S,>=16,R,>=16,R,128,R,8,S,8,S,9,0.41
+,SAL_MDDWR2C2,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,8,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,<=1,S,<=1,I,4,S,<=20,S,0,0
+,EC_MDLWR1C1,Enterobacter cloacae complex,,,,<=2,S,,,>=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,<=0.5,S,<=1,S,<=16,S,<=2,S,<=20,S,0,0
+,EC_MDLWR1C6,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,8,S,,S,>=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.5,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,4,S,<=20,S,1,0.05
+,EC_MDLWR1C12,Enterobacter cloacae complex,,,,<=32,R,,,>=64,R,>=64,R,2,S,,,>=8,R,2,S,,S,1,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,4,S,2,S,64,I,8,S,<=20,S,4,0.21
+,EC_MDLWR2C4,Enterobacter cloacae complex,,,,<=2,*R,,,>=64,R,32,R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,0.5,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,3,0.15
+,EC_MDLWR2C8,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,8,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,1,0.05
+,EC_MDLWR2C9,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,8,S,,S,<=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,1,0.05
+,EC_MDLWR2C12,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,0.5,S,,S,2,S,<=1,S,,S,1,S,<=2,S,<=1,S,TRM,,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,3,0.16
+,EC_MDFTR1C2,Escherichia coli,NEG,>=32,R,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,1,0.05
+,EC_MDFTR1C4,Escherichia coli,NEG,8,S,4,S,,S,8,S,4,S,0.5,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,8,I,>=16,R,<=16,S,16,I,<=20,S,1,0.05
+,EC_MDFTR1C7,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MDFTR1C8,Enterobacter cloacae complex,,,,4,S,,,>=64,R,>=64,R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,1,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,<=1,S,32,S,4,S,<=20,S,3,0.15
+,EC_MDFTR1C9,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MDFTR1C11,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,<=20,S,2,0.09
+,EC_MDFTR1C13,Enterobacter cloacae complex,,,,<=2,S,,,>=64,R,4*,*R,<=0.25,S,,S,<=0.5,S,4,I,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,4,S,<=16,S,4,S,<=20,S,4,0.17
+,EC_MDFTR1C15,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,16,I,<=20,S,0,0
+,EC_MDFTR1C16,Escherichia coli,NEG,>=32,R,16,S,,,>=64,R,>=64,R,>=8,S,,,4,I,4,I,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,0.5,I,>=16,R,8,I,<=16,S,4,S,>=320,R,5,0.25
+,EC_MDFTR1C17,Escherichia coli,NEG,>=32,R,4,S,,,>=64,R,>=64,R,0.5,S,,,<=0.5,S,<=1,S,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,2,S,<=16,S,>=64,R,>=320,R,6,0.32
+,EC_MDFTR1C18,Escherichia coli,NEG,8,S,4,S,,S,8,S,16,I,0.5,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,<=1,S,<=16,S,16,I,<=20,S,0,0
+,EC_MDFTR2C3,Escherichia coli,NEG,>=32,R,<=2,S,,,>=64,R,>=64,R,4,I,,,>=8,R,>=8,R,,,>=16,R,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,6,0.32
+,EC_MDFTR2C6,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MDFTR2C7,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,16,I,0.5,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MDFTR2C8,Escherichia coli,NEG,>=32,R,4,S,,S,8,S,8,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,8,I,<=16,S,8,S,<=20,S,2,0.09
+,EC_MDFTR2C10,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,16,I,0.5,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,16,I,<=20,S,0,0
+,EC_MDFTR2C14,Enterobacter aerogenes,,,,<=2,S,,S,>=64,R,4*,*R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,<=20,S,5,0.24
+,EC_MDFTR2C15,Escherichia coli,,,R,,S,,S,,S,,S,,S,,S,,S,,S,,S,,S,,S,,S,,S,,,,S,,S,,S,,S,,S,,S,,S,,S,1,0.05
+,EC_MDFTR2C16,Enterobacter aerogenes,,,,4,S,,,>=64,R,>=64,R,4,I,,,>=8,R,4,I,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,<=0.5,S,0.25,S,>=16,R,8,I,<=16,S,>=64,R,>=320,R,7,0.37
+,EC_MDFTR3C1,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MDFTR3C8,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,>=64,R,>=64,R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,1,S,<=2,S,<=1,S,<=2,S,,,1,I,1,S,0.5,I,>=16,R,>=16,R,32,S,4,S,>=320,R,6,0.27
+,EC_MDFTR3C10,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,0.5,S,<=2,S,<=1,S,<=2,S,,,1,I,1,S,0.5,I,>=16,R,>=16,R,64,I,4,S,>=320,R,4,0.18
+,EC_MDFTR3C16,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,8,S,,S,>=64*,R,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,0.5,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,4,S,<=20,S,2,0.09
+,EC_MDFTR3C17,Escherichia coli,NEG,>=32,R,4,S,,,>=64,R,>=64,R,1,S,,,4,I,4,I,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,0.25,S,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,7,0.37
+,EC_MDFTR3C18,Escherichia coli,NEG,>=32,R,4,S,,S,>=64,R,4,S,<=0.25,S,,S,<=0.5,S,2,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,6,0.27
+,SAL_MDFTR2C1,Salmonella enterica spp diarizonae,,8*,*R,16,S,,,32,R,8,*R,1,S,,,4,I,4,I,,S,1,S,4,*R,<=1,*R,<=2,S,,,1,I,1,S,0.5,I,2,S,<=1,S,<=16,S,32,R,<=20,S,6,0.3
+,SAL_MDFTR2C5,Salmonella enterica spp diarizonae,,4*,*R,<=2,S,,,32,R,8,*R,1,S,,,4,I,4,I,,S,<=0.25,S,<=2,*R,<=1,*R,<=2,S,,,1,I,1,S,0.25,S,1,S,<=1,S,<=16,S,16,I,<=20,S,5,0.25
+,SAL_MDFTR3C6,Escherichia coli,POS,>=32,R,4,S,,R,<=64,R,<=64,R,4,I,,,>=8,R,>=8,R,,S,<=0.25,S,<=2,S,<=1,S,16,I,,,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,8,S,<=320,R,11,0.52
+,VC_MDFTR1C1,Escherichia coli,NEG,>=32,R,4,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,0.25,S,8,I,>=16,R,<=16,S,4,S,<=20,S,2,0.09
+,VC_MDFTR3C1,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,16,S,,S,>=64,R,>=64,R,<=0.25,S,,,4,I,2,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,<=0.5,S,0.25,S,>=16,R,>=16,R,<=16,S,>=64,R,<=320,R,7,0.33
+,VC_MDFTR3C4 ,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MDFKR1C3,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,0.5,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,EC_MDFKR2C1,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,0
+,EC_MDFKR2C4,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,S,8,S,4,S,<=0.25,S,,,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,<=0.5,S,0.5,I,>=16,R,>=16,R,32,S,4,S,<=20,S,3,0.14
+,EC_MDFKR2C6,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,2*,*I,32,S,4,S,<=20,S,2,0.09
+,EC_MDFKR3C1 ,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MDFKR3C2,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,0.5,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,4,S,<=20,S,1,0.05
+,EC_MDFKR3C4,Escherichia coli,NEG,>=32,R,<=2,S,,S,8,S,8,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,4,0.18
+,EC_MDFKR3C5,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,8,I,<=16,S,8,S,<=20,S,1,0.05
+,SAL_MDFKR3C4,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,VC_MDFKR1C1,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,8,I,<=16,S,4,S,<=20,S,1,0.05
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,CODE,ISOLATE ID,LEVEL OF RESISTANCE ON TEST ANTIBIOTICS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scored Resistance,MAR INDEX
+,,,ESBL,AMP,,AMO,,CFT,,CFX,,CFL,,CFP,,CFA,,CFO,,CFI,,CFZ,,IME,,AMI,,GEN,,NEO,,NLA,,ENR,,MAR,,PRA,,DOX,,TET,,NIT,,CHL,,TR/SL,,,
+,,,,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,MIC,INT.,,
+,EC_MKDWR1C1,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,0.5,S,,S,<=0.5,S,<=1,S,,S,0.5,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,<=1,S,32,S,4,S,<=20,S,3,0.15
+,EC_MKDWR1C3,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,4,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,1,0.05
+,EC_MKDWR1C7,Escherichia coli,NEG,>=32,R,4,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,<=20,S,3,0.14
+,EC_MKDWR2C3,Escherichia coli,NEG,>=32,R,4,S,,,16,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,>=320,R,4,0.19
+,EC_MKDWR2C4,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,8,S,,S,8,S,16,I,<=0.25,S,,,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,0.25,S,1,S,<=1,S,<=16,S,8,S,>=320,R,2,0.1
+,EC_MKDWR2C8,Escherichia coli,NEG,8,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MKDWR2C9,Escherichia coli,NEG,>=32,R,4,S,,S,8,S,8,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,3,0.14
+,EC_MKDWR2C10,Escherichia coli,NEG,>=32,R,4,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,>=320,R,4,0.18
+,EC_MKDWR3C1,Klebsiella pneumoniae ssp pneumoniae,POS,>=32,R,<=2,S,,R,>=64,R,>=64,R,>=8,R,,,>=8,R,>=8,R,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,<=0.5,S,0.25,S,1,S,<=1,S,64,I,<=2,S,>=320,R,8,0.38
+,EC_MKDWR3C2,Escherichia coli,NEG,8,S,<=2,S,,S,16,S,16,I,0.5,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MKDWR3C4,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,0
+,EC_MKDWR3C6,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKDWR3C8,Klebsiella pneumoniae ssp ozaenae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKDWR3C9,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,VC_MKDWR1 C1,Enterobacter cloacae complex,,,,4,*R,,,>=64,R,>=64,R,2,S,,,2,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,128,R,16,I,<=20,S,4,0.21
+,VC_MKDWR1 C2,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,2,S,,,4,I,2,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,4,S,2,S,64,I,16,I,<=20,S,3,0.16
+,VC_MKDWR1 C3,Enterobacter cloacae complex,,,,4,*R,,,>=64,R,>=64,R,2,S,,,2,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,128,R,16,I,<=20,S,4,0.21
+,VC_MKDWR1 C5,Enterobacter cloacae complex,,,,4,*R,,,>=64,R,>=64,R,2,S,,,2,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,128,R,16,I,<=20,S,4,0.21
+,VC_MKDWR1 C6,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,VC_MKDWR2 C1,Enterobacter cloacae complex,,,,4,*R,,,16,*R,>=64,R,2,S,,S,4,I,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,64,I,8,S,<=20,S,3,0.15
+,VC_MKDWR2 C2,Enterobacter cloacae complex,,,,4,*R,,,>=64,R,>=64,R,2,S,,,>=8,R,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,128,R,16,I,<=20,S,5,0.26
+,VC_MKDWR3 C2,Enterobacter cloacae complex,,,,<=2,*R,,,16,*R,8,*R,<=0.25,S,,S,2,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,64,I,16,I,<=20,S,3,0.15
+,VC_MKDWR3 C3,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,2,S,,,2,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,128,R,16,I,<=20,S,6,0.32
+,EC_MKLWR1C6,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1*,*I,>=16,R,32,S,<=2,S,<=20,S,2,0.09
+,EC_MKLWR2C1,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,4,S,<=20,S,3,0.15
+,EC_MKLWR2C3,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,8,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MKLWR2C4,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,<=1,S,<=16,S,8,S,<=20,S,0,0
+,EC_MKLWR2C5,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,>=32,R,,,>=64,R,>=64,R,>=8,R,,,>=8,R,>=8,R,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,1,S,1,I,>=16,R,>=16,R,64,I,<=2,S,>=320,R,10,0.5
+,EC_MKLWR2C6,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,>=32,R,,,>=64,R,>=64,R,>=8,R,,,>=8,R,>=8,R,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,1,S,1,I,>=16,R,>=16,R,64,I,4,S,>=320,R,10,0.5
+,EC_MKLWR3C4,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,<=20,S,2,0.09
+,EC_MKLWR3C8,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,<=1,S,64,I,4,S,<=20,S,3,0.14
+,VC_MKLWR1 C11,Vibrio cholerae,,>=32,R,<=2,S,,,,,,,,,,,<=0.5,S,2,S,,,<=0.25,S,<=2,S,<=1,S,,,,,<=0.12,S,<=0.5,S,,,<=0.5,S,<=1,S,,S,<=2,S,<=20,S,1,0.06
+,VC_MKLWR2 C5,Escherichia coli,POS,16,I,<=2,S,,,8,S,<=2,S,>=8,R,,,2,S,>=8,R,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.25,S,1,S,<=0.12,S,<=0.5,S,<=1,S,<=16,S,<=2,S,TRM,,2,0.11
+,VC_MKLWR3 C1,Enterobacter cloacae complex,,,,<=2,*R,,,16,*R,>=64,R,2,S,,S,2,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,128,R,16,I,<=20,S,4,0.2
+,VC_MKLWR3 C2,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,2,S,,,4,I,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,4,S,2,S,128,R,8,S,<=20,S,4,0.21
+,VC_MKLWR3 C3,Vibrio vulnificus,,,,>=32,R,,,>=64,R,>=64,R,2,S,,,2,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,128,R,16,I,<=20,S,6,0.32
+,EC_MKFTR1C1,Escherichia coli,NEG,16,I,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,0,0
+,EC_MKFTR1C2,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,3,0.15
+,EC_MKFTR1C9,Escherichia coli,NEG,>=32,R,4,S,,S,8,S,16,I,0.5,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,1,I,<=0.5,S,0.25,S,8,I,>=16,R,<=16,S,4,S,<=20,S,2,0.09
+,EC_MKFTR1C11,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,8,S,,S,<=4,S,4,S,<=0.25,S,,,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,>=320,R,4,0.19
+,EC_MKFTR1C12,Escherichia coli,NEG,<=2,S,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,0,0
+,EC_MKFTR1C13,Klebsiella pneumoniae ssp pneumoniae,POS,>=32,R,4,S,,,>=64,R,>=64,R,<=0.25,S,,,4,I,4,I,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,4,S,<=20,S,3,0.16
+,EC_MKFTR1C15,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,16,I,,S,>=64,R,>=64,R,<=0.25,S,,,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.5,S,<=0.5,S,0.25,S,>=16,R,>=16,R,64,I,4,S,40,S,5,0.24
+,EC_MKFTR1C16,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFTR2C1,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,16,I,0.5,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFTR2C2,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,16,I,0.5,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFTR2C3,Escherichia coli,NEG,>=32,R,8,S,,S,8,S,16,I,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,32,S,4,S,>=320,R,4,0.18
+,EC_MKFTR2C4,Escherichia coli,NEG,>=32,R,<=2,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,EC_MKFTR2C5,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFTR2C7,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,8,S,,S,<=4,S,4,S,<=0.25,S,,,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,>=320,R,4,0.19
+,EC_MKFTR2C8,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFTR2C15,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,>=320,R,4,0.18
+,EC_MKFTR2C16,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFTR3C1,Escherichia coli,NEG,4,S,<=2,S,,S,8,S,16,I,0.5,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFTR3C2,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,EC_MKFTR3C3,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,8,*R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,3,0.15
+,EC_MKFTR3C4,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,8,S,,S,<=4,S,4,S,<=0.25,S,,,1,S,<=1,S,,S,1,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,4,S,<=20,S,1,0.05
+,EC_MKFTR3C5,Klebsiella pneumoniae ssp pneumoniae,NEG,<=2*,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,EC_MKFTR3C7,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,EC_MKFTR3C8,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFTR3C9,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFTR3C13,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,S,<=4,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,>=320,R,4,0.18
+,EC_MKFTR3C14,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,1,0.05
+,EC_MKFKR1C2,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFKR1C3,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFKR1C4,Enterobacter cloacae complex,,,,<=2,*R,,,>=64,R,>=64,R,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,64,I,4,S,<=20,S,5,0.24
+,EC_MKFKR1C6,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFKR1C7,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2*,*I,>=16,R,128,R,<=2,S,<=20,S,3,0.14
+,EC_MKFKR1C8,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFKR1C9,Enterobacter cloacae complex,,,,>=32,R,,,>=64,R,>=64,R,2,S,,,4,I,<=1,S,,S,0.5,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,4,S,2,S,32,S,8,S,<=20,S,3,0.15
+,EC_MKFKR1C11,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,>=32,R,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,TRM,,TRM,,<=0.12,S,TRM,,<=1,S,64,I,4,S,<=20,S,2,0.09
+,EC_MKFKR1C15,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,4,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFKR1C16,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,2*,*I,>=16,R,64,I,4,S,<=20,S,2,0.09
+,EC_MKFKR2C1,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,8,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFKR2C2,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,1,0.05
+,EC_MKFKR2C3,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFKR2C4,Enterobacter cloacae complex,,,,4,S,,,<=4,S,<=2,S,<=0.25,S,,,<=0.5,S,<=1,S,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,0,0
+,EC_MKFKR2C6,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,4,S,,S,<=4,S,<=2,S,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,4,S,<=20,S,1,0.05
+,EC_MKFKR2C11,Enterobacter aerogenes,,,,4,S,,,<=4,S,<=2,S,<=0.25,S,,,1,S,<=1,S,,,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,0,0
+,EC_MKFKR2C13,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,>=64,R,>=64,R,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,0.25,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,64,I,<=2,S,<=20,S,5,0.23
+,EC_MKFKR2C14,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFKR2C15,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,8,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFKR3C2,Escherichia coli,NEG,<=2,S,<=2,S,,S,8,S,4,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,2,0.09
+,EC_MKFKR3C3,Enterobacter cloacae complex,,,,<=2,*R,,,8,*R,4*,*R,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,5,0.25
+,EC_MKFKR3C4,Enterobacter cloacae complex,,,,<=2,*R,,,8,*R,4*,*R,<=0.25,S,,S,1,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,5,0.25
+,EC_MKFKR3C7,Enterobacter aerogenes,,,,>=32,R,,S,>=64,R,16,*R,<=0.25,S,,S,1,S,<=1,S,,S,1,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,4,S,<=20,S,3,0.14
+,EC_MKFKR3C10,Klebsiella pneumoniae ssp pneumoniae,NEG,16,*R,<=2,S,,S,<=4,S,<=2,S,<=0.25,S,,S,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,1,0.05
+,EC_MKFKR3C11,Enterobacter aerogenes,,,,<=2,S,,,<=4,S,<=2,S,<=0.25,S,,,<=0.5,S,<=1,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,0,0
+,EC_MKFKR3C13,Klebsiella pneumoniae ssp pneumoniae,NEG,>=32,R,<=2,S,,S,>=64,R,<=2*,S,<=0.25,S,,S,<=0.5,S,2,S,,S,<=0.25,S,<=2,S,<=1,S,<=2,S,,,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,2,0.09
