@@ -25,9 +25,9 @@
     "random_forest": {
       "f1": 0.9090909090909091,
       "roc_auc": 0.9949494949494949,
-      "overfitting_gap": 0.036363636363636376,
-      "cv_stability": 18.336452102338704,
-      "combined_score": 0.9493939393939393
+      "overfitting_gap": 0.018181818181818188,
+      "cv_stability": 21.568627450980387,
+      "combined_score": 0.9512121212121211
     },
     "lightgbm": {
       "f1": 1.0,

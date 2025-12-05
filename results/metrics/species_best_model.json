@@ -97,8 +97,8 @@
     "random_forest": {
       "f1": 0.7614285714285713,
       "roc_auc": NaN,
-      "overfitting_gap": 0.2571434205866254,
-      "cv_stability": 7.068697831158517,
+      "overfitting_gap": 0.2749094304388423,
+      "cv_stability": 5.857956578095249,
       "combined_score": NaN
     },
     "lightgbm": {

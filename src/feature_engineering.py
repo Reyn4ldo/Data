@@ -148,7 +148,11 @@ def create_mdr_flag(df: pd.DataFrame) -> pd.DataFrame:
         df['num_resistant_classes'] = resistant_classes
         
         # MDR flag: >=3 resistant classes OR mar_index >= 0.2
-        mar_condition = df['mar_index'] >= 0.2 if 'mar_index' in df.columns else False
+        if 'mar_index' in df.columns:
+            mar_condition = df['mar_index'] >= 0.2
+        else:
+            logger.warning("mar_index column not found, MDR calculation based on class resistance only")
+            mar_condition = pd.Series([False] * len(df), index=df.index)
         class_condition = resistant_classes >= 3
         
         df['mdr_flag'] = ((mar_condition) | (class_condition)).astype(int)

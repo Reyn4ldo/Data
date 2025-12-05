@@ -63,11 +63,11 @@
   },
   "selection_scores": {
     "random_forest": {
-      "f1": 0.7321428571428571,
+      "f1": 0.7984633569739952,
       "roc_auc": 1.0,
-      "overfitting_gap": 0.05377507324768993,
-      "cv_stability": 10.40150517806669,
-      "combined_score": 0.8606939212466596
+      "overfitting_gap": 0.04444444444444451,
+      "cv_stability": 10.112359550561793,
+      "combined_score": 0.8947872340425532
     },
     "lightgbm": {
       "f1": 0.9558707643814026,

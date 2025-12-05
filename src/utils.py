@@ -150,7 +150,7 @@ ANTIBIOTIC_CLASSES = {
         'cefpodoxime_int', 'cefotaxime_int', 'cefovecin_int',
         'ceftiofur_int', 'ceftazidime_avibactam_int'
     ],
-    'carbapenems': ['imepenem_int'],
+    'carbapenems': ['imipenem_int'],
     'aminoglycosides': ['amikacin_int', 'gentamicin_int', 'neomycin_int'],
     'quinolones': [
         'nalidixic_acid_int', 'enrofloxacin_int',

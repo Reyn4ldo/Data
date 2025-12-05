@@ -18,6 +18,9 @@ import sys
 import logging
 from pathlib import Path
 
+import numpy as np
+from sklearn.metrics import confusion_matrix
+
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -122,8 +125,6 @@ def run_pipeline():
             best_model = results['trained_models'][best_model_name]
             y_pred = best_model.predict(results['X_test_scaled'])
             
-            from sklearn.metrics import confusion_matrix
-            import numpy as np
             cm = confusion_matrix(results['y_test'], y_pred)
             
             if task == 'mdr':
