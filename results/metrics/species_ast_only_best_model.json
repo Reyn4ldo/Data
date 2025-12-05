@@ -1,0 +1,159 @@
+{
+  "task": "species_ast_only",
+  "best_model": "random_forest",
+  "metrics": {
+    "model": "random_forest",
+    "accuracy": 0.5862068965517241,
+    "balanced_accuracy": 0.6447368421052632,
+    "f1_macro": 0.4618437118437118,
+    "f1_weighted": 0.6457622836933181,
+    "precision_macro": 0.47222222222222215,
+    "recall_macro": 0.537280701754386,
+    "roc_auc_ovr": NaN,
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        9,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "classification_report": {
+      "enterobacter_aerogenes": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.6666666666666666,
+        "support": 1.0
+      },
+      "enterobacter_cloacae_complex": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4.0
+      },
+      "escherichia_coli": {
+        "precision": 0.3333333333333333,
+        "recall": 0.75,
+        "f1-score": 0.46153846153846156,
+        "support": 4.0
+      },
+      "klebsiella_pneumoniae": {
+        "precision": 1.0,
+        "recall": 0.47368421052631576,
+        "f1-score": 0.6428571428571429,
+        "support": 19.0
+      },
+      "klebsiella_pneumoniae_ssp_ozaenae": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+      },
+      "vibrio_cholerae": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+      },
+      "accuracy": 0.5862068965517241,
+      "macro avg": {
+        "precision": 0.47222222222222215,
+        "recall": 0.537280701754386,
+        "f1-score": 0.4618437118437118,
+        "support": 29.0
+      },
+      "weighted avg": {
+        "precision": 0.8563218390804598,
+        "recall": 0.5862068965517241,
+        "f1-score": 0.6457622836933181,
+        "support": 29.0
+      }
+    }
+  },
+  "selection_scores": {
+    "random_forest": {
+      "f1": 0.4618437118437118,
+      "roc_auc": NaN,
+      "overfitting_gap": 0.18790813165461656,
+      "cv_stability": 13.2776487054942,
+      "combined_score": NaN
+    },
+    "lightgbm": {
+      "f1": 0.29451659451659445,
+      "roc_auc": NaN,
+      "overfitting_gap": 0.13118141310727566,
+      "cv_stability": 10.516177267825945,
+      "combined_score": NaN
+    },
+    "logistic_regression": {
+      "f1": 0.4111721611721612,
+      "roc_auc": NaN,
+      "overfitting_gap": 0.19626064727093184,
+      "cv_stability": 20.7932542187305,
+      "combined_score": NaN
+    },
+    "svm": {
+      "f1": 0.4111721611721612,
+      "roc_auc": NaN,
+      "overfitting_gap": 0.18705414861288316,
+      "cv_stability": 13.667435991865668,
+      "combined_score": NaN
+    },
+    "knn": {
+      "f1": 0.41,
+      "roc_auc": NaN,
+      "overfitting_gap": -0.13241988407800792,
+      "cv_stability": 9.22868292801861,
+      "combined_score": NaN
+    },
+    "naive_bayes": {
+      "f1": 0.38924630924630926,
+      "roc_auc": NaN,
+      "overfitting_gap": 0.14972766823544176,
+      "cv_stability": 10.50723096576142,
+      "combined_score": NaN
+    }
+  }
+}

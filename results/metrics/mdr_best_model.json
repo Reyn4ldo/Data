@@ -1,0 +1,68 @@
+{
+  "task": "mdr",
+  "best_model": "lightgbm",
+  "metrics": {
+    "model": "lightgbm",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "balanced_accuracy": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "confusion_matrix": [
+      [
+        18,
+        0
+      ],
+      [
+        0,
+        11
+      ]
+    ]
+  },
+  "selection_scores": {
+    "random_forest": {
+      "f1": 0.9090909090909091,
+      "roc_auc": 0.9949494949494949,
+      "overfitting_gap": 0.018181818181818188,
+      "cv_stability": 21.568627450980387,
+      "combined_score": 0.9512121212121211
+    },
+    "lightgbm": {
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "overfitting_gap": 0.0612587412587412,
+      "cv_stability": 9.96425393985377,
+      "combined_score": 0.9935166652726637
+    },
+    "logistic_regression": {
+      "f1": 0.9,
+      "roc_auc": 0.9949494949494949,
+      "overfitting_gap": 0.029946524064171087,
+      "cv_stability": 20.809735172790038,
+      "combined_score": 0.9454901960784314
+    },
+    "svm": {
+      "f1": 0.9565217391304348,
+      "roc_auc": 0.994949494949495,
+      "overfitting_gap": 0.02966260224572237,
+      "cv_stability": 21.731593608407128,
+      "combined_score": 0.9737794578254936
+    },
+    "knn": {
+      "f1": 0.9090909090909091,
+      "roc_auc": 0.9924242424242424,
+      "overfitting_gap": 0.053880357319828986,
+      "cv_stability": 9.73620286983571,
+      "combined_score": 0.9442467202391014
+    },
+    "naive_bayes": {
+      "f1": 0.9090909090909091,
+      "roc_auc": 0.9595959595959596,
+      "overfitting_gap": 0.11428321973069222,
+      "cv_stability": 6.90622485421616,
+      "combined_score": 0.9000581689933348
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "task": "resistance",
+  "best_model": "lightgbm",
+  "metrics": {
+    "model": "lightgbm",
+    "accuracy": 0.9655172413793104,
+    "balanced_accuracy": 0.9333333333333332,
+    "f1_macro": 0.9558707643814026,
+    "f1_weighted": 0.9639683704247166,
+    "precision_macro": 0.9861111111111112,
+    "recall_macro": 0.9333333333333332,
+    "roc_auc_ovr": 1.0,
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        23,
+        0
+      ],
+      [
+        0,
+        1,
+        4
+      ]
+    ],
+    "classification_report": {
+      "high": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "low": {
+        "precision": 0.9583333333333334,
+        "recall": 1.0,
+        "f1-score": 0.9787234042553191,
+        "support": 23.0
+      },
+      "moderate": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1-score": 0.8888888888888888,
+        "support": 5.0
+      },
+      "accuracy": 0.9655172413793104,
+      "macro avg": {
+        "precision": 0.9861111111111112,
+        "recall": 0.9333333333333332,
+        "f1-score": 0.9558707643814026,
+        "support": 29.0
+      },
+      "weighted avg": {
+        "precision": 0.9669540229885057,
+        "recall": 0.9655172413793104,
+        "f1-score": 0.9639683704247166,
+        "support": 29.0
+      }
+    }
+  },
+  "selection_scores": {
+    "random_forest": {
+      "f1": 0.7984633569739952,
+      "roc_auc": 1.0,
+      "overfitting_gap": 0.04444444444444451,
+      "cv_stability": 10.112359550561793,
+      "combined_score": 0.8947872340425532
+    },
+    "lightgbm": {
+      "f1": 0.9558707643814026,
+      "roc_auc": 1.0,
+      "overfitting_gap": 0.07838985387372477,
+      "cv_stability": 6.698021565234496,
+      "combined_score": 0.9370766124556738
+    },
+    "logistic_regression": {
+      "f1": 0.48611111111111116,
+      "roc_auc": 0.9204623878536923,
+      "overfitting_gap": 0.0390483959561031,
+      "cv_stability": 19.55195386921115,
+      "combined_score": 0.7152894323160529
+    },
+    "svm": {
+      "f1": 0.5929078014184398,
+      "roc_auc": 0.9916666666666667,
+      "overfitting_gap": 0.14405235636582936,
+      "cv_stability": 7.522544529374832,
+      "combined_score": 0.7547741103663852
+    },
+    "knn": {
+      "f1": 0.40816326530612246,
+      "roc_auc": 0.9126466528640442,
+      "overfitting_gap": 0.16969293595689072,
+      "cv_stability": 7.390004094883622,
+      "combined_score": 0.6348063758654217
+    },
+    "naive_bayes": {
+      "f1": 0.44841979725700654,
+      "roc_auc": 0.6975500345065563,
+      "overfitting_gap": 0.12908782334138713,
+      "cv_stability": 8.359077544556696,
+      "combined_score": 0.6041569020918983
+    }
+  }
+}
